@@ -203,7 +203,7 @@ body {
 }
 @media (min-width: 1600px) {
   body {
-    font-size: 18px;
+    font-size: 22px;
   }
 }
 h1,
@@ -1958,7 +1958,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1fbd3b;
+  background: #0aff81;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2931,7 +2931,7 @@ hr {
 }
 @media (max-width: 767px) {
   .posts-expand .post-body {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 .posts-expand .post-body img {
@@ -2965,12 +2965,12 @@ hr {
 }
 @media (max-width: 767px) {
   .post-button a {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 @media (min-width: 1600px) {
   .post-button a {
-    font-size: 18px;
+    font-size: 22px;
   }
 }
 .post-button a:hover {
