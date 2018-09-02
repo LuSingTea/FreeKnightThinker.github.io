@@ -87,7 +87,7 @@
 <meta property="og:site_name" content="FreeKnight">
 <meta property="og:description" content="思想——人的全部的尊严就在于思想。                ——帕斯卡《思想录》   授人以鱼，不如授人以渔。我希望提供一扇门，由读者们自己去打开。  最好找到信息源。                    ——FreeKnight  网站资讯类 好奇心日报（强烈推荐）   之所以叫「好奇心日报」，是因为我们认为好奇心是人类最美好的品质之一，我们筛选最有价值的信息，你能在这里看到全球最有想">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-09-02T03:03:31.697Z">
+<meta property="og:updated_time" content="2018-09-02T04:19:18.742Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="那些年，我喜欢的网站">
 <meta name="twitter:description" content="思想——人的全部的尊严就在于思想。                ——帕斯卡《思想录》   授人以鱼，不如授人以渔。我希望提供一扇门，由读者们自己去打开。  最好找到信息源。                    ——FreeKnight  网站资讯类 好奇心日报（强烈推荐）   之所以叫「好奇心日报」，是因为我们认为好奇心是人类最美好的品质之一，我们筛选最有价值的信息，你能在这里看到全球最有想">
@@ -363,6 +363,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/06/14/website/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/06/14/website/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -421,6 +431,7 @@
 <ul>
 <li><strong><a href="https://sspai.com/" target="_blank" rel="noopener">少数派</a></strong>    一个基于专业创作社群的数字消费指南平台。（提供一些小技巧）</li>
 <li><strong><a href="https://www.v2ex.com/" target="_blank" rel="noopener">V2EX</a></strong>    V2EX = way to explore，V2EX 是一个关于分享和探索的地方。（著名技术社区）</li>
+<li><a href="https://www.52pojie.cn/" target="_blank" rel="noopener"><strong>吾爱破解</strong></a>     知名破解软件交流网站</li>
 <li><a href="https://www.onespiece.com/" target="_blank" rel="noopener"><strong>ONES Piece 翻译计划</strong></a>     ONES Piece 是一个由 <a href="http://www.weareones.com/" target="_blank" rel="noopener">ONES Ventures</a> 发起的非营利翻译计划，聚焦科技创新、生活方式、未来商业。</li>
 <li><a href="https://waitbutwhy.com/" target="_blank" rel="noopener"><strong>WAIT BUT WHY</strong></a>    something interesting.</li>
 </ul>
@@ -587,9 +598,7 @@
 
   
     <div class="comments" id="comments">
-      <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTkwOC8xMjQ0NA=="></div>
     </div>
-
   
 
 
@@ -896,26 +905,37 @@
 
 
   
-    <script type="text/javascript">
-      (function(d, s) {
-        var j, e = d.getElementsByTagName(s)[0];
-        if (typeof LivereTower === 'function') { return; }
-        j = d.createElement(s);
-        j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-        j.async = true;
-        e.parentNode.insertBefore(j, e);
-      })(document, 'script');
-    </script>
+
+
+
+
+
+
+
+
+
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
   
-
-
-
-
-
-
-
-
-
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'N3P4pr5DRzJKmO8WI1pTSRJ2-9Nh9j0Va',
+        appKey: 'XVbN32CBnPKj6aF6hsape4OX',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 

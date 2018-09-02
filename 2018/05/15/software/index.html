@@ -97,7 +97,7 @@
 <meta property="og:image" content="https://i.loli.net/2018/05/16/5afb8b95f32e5.png">
 <meta property="og:image" content="https://i.loli.net/2018/05/16/5afb8b95e20ee.png">
 <meta property="og:image" content="https://i.loli.net/2018/05/16/5afb8b9604391.png">
-<meta property="og:updated_time" content="2018-09-01T10:40:27.446Z">
+<meta property="og:updated_time" content="2018-09-02T04:56:24.209Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="软件系列①| Windows基本软件推荐及安装（包括Office及Photoshop的激活)">
 <meta name="twitter:description" content="计算机是头脑的自行车。        ——史蒂夫·乔布斯   这是软件系列的第一篇。其他两篇：  软件系列②| 如何优雅地获取电子书、音乐和影视资源 软件系列③| IDM和μTorrent Web（边下边播神器）的使用   自计算机和互联网发明以来，其极大地改变了人们处理和获取信息的方式。而软件，在其中扮演了重要的角色。本篇文章分享了一些软件网站及常用软件的安装方法。 搜索小技巧（某些可能只对G">
@@ -374,6 +374,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/05/15/software/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/05/15/software/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -438,6 +448,7 @@
 <h4 id="压缩软件"><a href="#压缩软件" class="headerlink" title="压缩软件"></a>压缩软件</h4><p>推荐7-Zip ，<a href="https://www.7-zip.org/" target="_blank" rel="noopener">官网</a></p>
 <h4 id="视频播放软件"><a href="#视频播放软件" class="headerlink" title="视频播放软件"></a>视频播放软件</h4><p>推荐称为windows上最好的视频播放器—potplayer. 下载页面 <a href="http://www.flighty.cn/html/soft/20140819_245.html" target="_blank" rel="noopener">Potplayer</a>。</p>
 <h4 id="下载软件"><a href="#下载软件" class="headerlink" title="下载软件"></a>下载软件</h4><p>推荐IDM， <a href="https://shimo.im/docs/qWBJQuPPwQcjjjhz" target="_blank" rel="noopener">下载地址</a></p>
+<p>Pan Download，知名百度云不限速下载器，<a href="https://pandownload.com" target="_blank" rel="noopener">官网</a></p>
 <h4 id="Windows文件搜索引擎"><a href="#Windows文件搜索引擎" class="headerlink" title="Windows文件搜索引擎"></a>Windows文件搜索引擎</h4><p>推荐Everything， <a href="https://www.voidtools.com/" target="_blank" rel="noopener">官网</a> </p>
 <h4 id="截图软件"><a href="#截图软件" class="headerlink" title="截图软件"></a>截图软件</h4><p>推荐Snipaste， <a href="https://zh.snipaste.com/" target="_blank" rel="noopener">官网</a> </p>
 <blockquote>
@@ -570,9 +581,7 @@
 
   
     <div class="comments" id="comments">
-      <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTkwOC8xMjQ0NA=="></div>
     </div>
-
   
 
 
@@ -879,26 +888,37 @@
 
 
   
-    <script type="text/javascript">
-      (function(d, s) {
-        var j, e = d.getElementsByTagName(s)[0];
-        if (typeof LivereTower === 'function') { return; }
-        j = d.createElement(s);
-        j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-        j.async = true;
-        e.parentNode.insertBefore(j, e);
-      })(document, 'script');
-    </script>
+
+
+
+
+
+
+
+
+
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
   
-
-
-
-
-
-
-
-
-
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'N3P4pr5DRzJKmO8WI1pTSRJ2-9Nh9j0Va',
+        appKey: 'XVbN32CBnPKj6aF6hsape4OX',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
