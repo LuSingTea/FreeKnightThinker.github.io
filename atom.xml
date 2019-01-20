@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FreeKnight</title>
+  
+  <subtitle>自由骑士</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://freeknight.cf/"/>
+  <updated>2019-01-20T13:46:45.193Z</updated>
+  <id>https://freeknight.cf/</id>
+  
+  <author>
+    <name>FKT</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>热泪·繁星·时之沙</title>
+    <link href="https://freeknight.cf/2019/01/20/tears/"/>
+    <id>https://freeknight.cf/2019/01/20/tears/</id>
+    <published>2019-01-20T13:19:01.000Z</published>
+    <updated>2019-01-20T13:46:45.193Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="热泪"><a href="#热泪" class="headerlink" title="热泪"></a>热泪</h3><p>热锅冒出的蒸汽在椅子上变换着形状<br>飘忽不定<br>白皙脸蛋和<br>甜蜜俏皮的笑容<br>在我眼前愈发明亮地定格<br>那是我身旁的你</p><p>目光只能被沸腾的水泡所绑架<br>看着它们升起继而破裂<br>就像我那微薄的希望<br>你的手机射出利刃<br>那是你与他的即时通讯<br>余光已灼伤我的心</p><p>眼前开始模糊<br>凝结，眨眼，凝结<br>此刻我的泪水是坚强的<br>它只在我的心里流了千百遍<br>却不曾掉落半滴</p><h3 id="繁星"><a href="#繁星" class="headerlink" title="繁星"></a>繁星</h3><p>满天繁星的屏幕<br>时空跌入记忆里<br>越来越远的你<br>渐渐消失的背影</p><p>在另一个平行宇宙<br>你的容颜是否还在我的眼前？</p><p>多希望<br>在我的未来<br>有你的存在</p><h3 id="时之沙"><a href="#时之沙" class="headerlink" title="时之沙"></a>时之沙</h3><p>时间如流沙<br>铺在沙滩上<br>我沿着它从一端走到另一端</p><p>偶尔在流沙中<br>发现几枚贝壳<br>拾起了一枚<br>却失去了另一枚</p><p>一阵风吹过<br>过去仿佛变了个模样</p><p>但对于你<br>我<br>捧起了所有流沙<br>只为寻找捧着贝壳的你</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;热泪&quot;&gt;&lt;a href=&quot;#热泪&quot; class=&quot;headerlink&quot; title=&quot;热泪&quot;&gt;&lt;/a&gt;热泪&lt;/h3&gt;&lt;p&gt;热锅冒出的蒸汽在椅子上变换着形状&lt;br&gt;飘忽不定&lt;br&gt;白皙脸蛋和&lt;br&gt;甜蜜俏皮的笑容&lt;br&gt;在我眼前愈发明亮地定格&lt;br&gt;那是我身旁的你
+      
+    
+    </summary>
+    
+      <category term="诗歌" scheme="https://freeknight.cf/categories/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网页备份和传播等相关网站及软件</title>
+    <link href="https://freeknight.cf/2019/01/13/backup-and-dissemination/"/>
+    <id>https://freeknight.cf/2019/01/13/backup-and-dissemination/</id>
+    <published>2019-01-13T12:01:22.000Z</published>
+    <updated>2019-01-15T12:07:15.212Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><a href="https://naive.cf/" target="_blank" rel="noopener"><strong>naiveBoom</strong></a>    无需注册的阅后即焚</li></ul><p><img src="https://telegra.ph/file/b8f233d27909a06b80cdc.png" alt=""></p><ul><li><p><a href="https://outline.com/" target="_blank" rel="noopener"><strong>Outline</strong></a>    快速存档正文</p><p><img src="http://p2.so.qhmsg.com/t017ac033ee55d895b7.jpg" alt=""></p></li><li><p><strong><a href="https://archive.fo" target="_blank" rel="noopener">archive</a></strong>    快速存档网页</p></li></ul><p><img src="http://p2.so.qhmsg.com/t019651dd2e7b6938f7.jpg" alt=""></p><ul><li><a href="https://telegra.ph/" target="_blank" rel="noopener"><strong>telegra.ph</strong></a>    Publish markdown easily </li></ul><p><img src="https://ww1.sinaimg.cn/large/007i4MEmgy1fz58bv5pxej30nf04o746.jpg" alt=""></p><ul><li><p><strong><a href="ipfs.ink">ipfs.ink</a></strong>    Publish markdown essays with one-click</p><blockquote><p>举个例子：open the <a href="https://ipfs.ink/e/QmdRumkhkcjXDmpDf9A1btjFXL3xY569jAFLZdxCw44qsR" target="_blank" rel="noopener">🚪</a></p></blockquote></li><li><p><strong><a href="https://send.firefox.com/" target="_blank" rel="noopener">Firefox Send</a></strong>    Firefox的私密、安全的文件分享服务</p></li></ul><p><img src="https://ww1.sinaimg.cn/large/007i4MEmgy1fz58f4atrwj30hn0ebjsk.jpg" alt=""></p><ul><li><strong><a href="http://tmp.link/" target="_blank" rel="noopener">TMP LINK</a></strong>    无限大的中转空间，无需注册，立即使用，支持热力链</li></ul><p><img src="https://ww1.sinaimg.cn/large/007i4MEmgy1fz58dtsyv1j30fv07owez.jpg" alt=""></p><ul><li><p><a href="https://cp.anyknew.com/" target="_blank" rel="noopener"><strong>Copytool</strong></a>    轻量级纯Web跨平台文件、文字分享工具，支持阅后即焚</p><p><img src="https://ww1.sinaimg.cn/large/007i4MEmgy1fz58gmnjy2j30kw0digm6.jpg" alt=""></p></li><li><p><a href="https://drop.me" target="_blank" rel="noopener"><strong>DROP.ME</strong></a>    文件分享服务</p></li></ul><p><img src="https://ww1.sinaimg.cn/large/007i4MEmgy1fz58tnir7jj30yj0esweq.jpg" alt=""></p><ul><li><a href="https://openload.co/" target="_blank" rel="noopener"><strong>openload</strong></a>    免费上传你的文件并分享，不过下载的时候有广告</li></ul><p><img src="https://ww1.sinaimg.cn/large/007i4MEmgy1fz58ulpzb1j30nk0i0t9g.jpg" alt=""></p><ul><li><a href="https://www.resilio.com/individuals/" target="_blank" rel="noopener"><strong>Resilio Sync</strong></a>    去中心化网盘，这里有一篇<a href="http://outline.com/nAMBFd" target="_blank" rel="noopener">介绍</a></li></ul><p>还有一篇<a href="https://bookfere.com/post/581.html" target="_blank" rel="noopener">如何解决 Resilio Sync 无法正常同步的问题（推荐下载这里的版本）</a></p><p>这里推荐一个<a href="http://syncfan.com/bbs/thread-33-1-1.html" target="_blank" rel="noopener">神Key</a></p><ul><li><a href="https://ipfs.io/" target="_blank" rel="noopener"><strong>IPFS</strong></a>    去中心化Web，<a href="https://github.com/ipfs/ipfs" target="_blank" rel="noopener">介绍</a></li></ul><p><img src="http://p2.so.qhmsg.com/t0180129edb4ee50540.jpg" alt=""></p><ul><li><p><a href="https://github.com/HelloZeroNet/ZeroNet/blob/master/README-zh-cn.md/" target="_blank" rel="noopener"><strong>ZeroNet</strong></a>    使用 Bitcoin 加密和 BitTorrent 网络的去中心化网络</p><p><img src="https://ww1.sinaimg.cn/large/007i4MEmgy1fz5awlkrz5j30mf08w756.jpg" alt=""></p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://naive.cf/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;naiveBoom&lt;/strong&gt;&lt;/a&gt;    无需注册的阅后即焚&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://freeknight.cf/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>审查与隐私——也谈言论自由</title>
+    <link href="https://freeknight.cf/2019/01/11/censor-and-privacy/"/>
+    <id>https://freeknight.cf/2019/01/11/censor-and-privacy/</id>
+    <published>2019-01-11T13:46:14.000Z</published>
+    <updated>2019-01-15T13:51:57.337Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>主张你不在意个人隐私的权利因为你无不可告人之处，这就等同于你不在意言论自由因为你没什么事情可说。          ——Edward Snowden</p><p>我们都需要有地方可以去探索而不依靠别人施加在我们身上的眼光，只有在一个不必被放大检视的地方我们才可以真正地测试出自己的极限。真正的私域才能允许不同声音、创造力和个人试探式的谎言。        ——Glenn Greenwald</p></blockquote><p>我们先来看看著名新闻媒体人<strong>Michael Anti</strong>在TED上的演讲：<strong>在中国巨大的防火墙的背后</strong>。</p><div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/michael_anti_behind_the_great_firewall_of_china" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div><p>他讲到尽管中央政府控制着互联网，但是数以亿计的微博用户实际上创造了中国历史上第一个全国性的公共讨论空间，并以意外的方式改变了权力平衡。但这是他在2012的演讲，现在审查的力度和速度已今非昔比，空间愈发逼仄，猫与老鼠的游戏仍在上演，自媒体在夹缝中生存，调查记者也变成了新闻游侠。</p><p>除了中国，斯诺登曝光的“棱镜计划”也反映了美国监控的严重性。下面是报导“棱镜计划”的记者<strong>格伦·格林沃尔德</strong>（<strong>Glenn Greenwald</strong>）在TED上的演讲：<strong>为什么隐私如此重要？（Why privacy matters?）</strong></p><div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/glenn_greenwald_why_privacy_matters" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div><p>在这场热情的演讲中，格林沃尔德说明了为什么你需要关心隐私，即使你“没有做任何你需要隐藏的事情”。</p><p>以及<strong>爱德华·斯诺登</strong>的TED演讲：<strong>Here’s how we take back the Internet</strong></p><div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div><p>他认为，数据隐私权不是一个党派问题，但需要从根本上重新思考互联网在我们生活中的作用以及保护互联网的法律。 “你的权利很重要，”他说，“因为你永远不知道什么时候你需要它们。”</p><p>他还讲述了他认为值得传播的思想：</p><blockquote><p><strong>在紧闭的门前，民主也许已经覆灭，但我们作为个体，在紧闭的门后出生，我们没必要为了好的政府，而放弃自己的隐私。我们没有必要为了安全，而放弃自己的自由。并且我认为，通过合作，我们可以同时拥有开放的政府和私人的生活。我想和世界上的每一位共同努力，来期待这天的到来。</strong></p></blockquote><p>除此之外，强烈推荐一部讲述斯诺登和棱镜计划的纪录片《<a href="https://movie.douban.com/subject/26059437/" target="_blank" rel="noopener">第四公民</a>》</p><p><img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2206143129.webp" alt=""></p><p>在片中斯诺登说：</p><blockquote><p>美国国安局建立了一套设施，其几乎可以拦截任何通讯。这套设备的能力，大多数人类的通讯都会自动地被吸纳进去而不是针对特定目标。如果我想要看你的电邮内容或是你老婆的电话，我只须要利用这套设备进行拦截，就可以取得你的电子邮件、密码、电信通话记录、信用卡资料等等。<strong>我不想活在一个做这种勾当的社会里，我不想要活在一个任何所做的事所说的话都被记录下来的世界。这不是我愿意去支持或是存活下来的地方。</strong></p></blockquote><p>在当今世界，似乎<strong>隐私即自由</strong>。</p><blockquote><p>最可怕的并不是死亡。而是即便你放弃优越的生活、甚至舍弃生命安全去选择捍卫正义，结果却是因不被理解，而难以达成改变现实的目的。曾经有中国的“勇敢者”说出这样的话，“我不怕危险，怕的是社会的麻木让我不值得冒险”。但这是真的吗？</p></blockquote><p>下面推荐一些关于信息安全和匿名工具的网站</p><ul><li><p><a href="https://iyouport.wixsite.com/iyouport" target="_blank" rel="noopener"><strong>IYP</strong></a>    一个关于互联网文化和信息安全的优秀博客</p><ul><li><a href="https://medium.com/@iyouport/%E5%9C%A8%E6%97%A0%E5%8F%AF%E8%A8%80%E8%AF%B4%E4%B9%8B%E4%B8%AD%E8%A8%80%E8%AF%B4%E4%B8%AD%E5%9B%BD-5429cb15ba8d" target="_blank" rel="noopener">在无可言说之中言说中国</a></li><li><a href="https://medium.com/@iyouport/snowden-%E5%90%AF%E7%A4%BA%E4%BA%94%E5%91%A8%E5%B9%B4-%E6%88%91%E4%BB%AC%E7%A6%BB%E8%87%AA%E7%94%B1%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C-9e7d8d6d03f8" target="_blank" rel="noopener">Snowden 启示五周年：我们离自由还有多远？</a></li><li><a href="https://medium.com/@iyouport/%E8%B0%83%E6%9F%A5%E6%95%B0%E6%8D%AE-%E6%96%AF%E8%AF%BA%E7%99%BB%E6%94%B9%E5%8F%98%E4%BA%86%E5%A4%9A%E5%B0%91-%E7%BB%88%E7%BB%93%E8%80%81%E5%A4%A7%E5%93%A5%E6%9C%89%E5%A4%9A%E9%9A%BE-ea44edee35d3" target="_blank" rel="noopener">调查数据：斯诺登改变了多少？终结老大哥有多难？</a></li><li><a href="https://iyouport.wixsite.com/iyouport/blog/%E4%BA%92%E8%81%94%E7%BD%91%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88-%E6%9D%A5%E8%87%AA-%E7%9B%91%E8%A7%86%E8%B0%B7-%E6%83%8A%E4%BA%BA%E7%9A%84%E5%90%AF%E7%A4%BA" target="_blank" rel="noopener">互联网究竟是什么？—— 来自“监视谷”惊人的启示</a></li><li><a href="https://iyouport.wixsite.com/iyouport/blog/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%80%E6%9C%AF%E6%9C%89%E5%88%A9%E4%BA%8E%E6%9A%B4%E6%94%BF-%E4%B8%80%E5%9C%BA%E4%BD%A0%E5%BF%85%E9%A1%BB%E5%8F%82%E4%B8%8E%E7%9A%84%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89" target="_blank" rel="noopener">为什么技术有利于暴政？—— 一场你必须参与的政治斗争</a></li><li><a href="https://iyouport.wixsite.com/iyouport/blog/%E6%95%B0%E5%AD%97%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89%E7%9A%84%E5%85%B4%E8%B5%B7-%E7%81%BE%E5%B9%B4%E4%B9%8B%E7%95%94" target="_blank" rel="noopener">数字威权主义的兴起: 灾年之畔</a></li><li><a href="https://steemit.com/life/@iyouport/7nfymr" target="_blank" rel="noopener">安全手册：这里是你需要的几乎所有安全上网工具</a></li></ul></li></ul><ul><li><p><a href="https://prism-break.org/zh-CN/" target="_blank" rel="noopener"><strong>粉粹棱镜</strong></a>    商业软件和服务的开源和匿名替代</p></li><li><p><a href="https://cybermagicsec.github.io/privacytools-zh/" target="_blank" rel="noopener"><strong>privacytools</strong></a>    隐私工具</p></li><li><p><a href="https://github.com/TheTorProject/gettorbrowser" target="_blank" rel="noopener"><strong>Tor Brower</strong></a>    <em>Tor</em>是实现匿名通信的自由软件。</p></li><li><p><a href="https://www.startpage.com" target="_blank" rel="noopener"><strong>Startpage</strong></a>    The world’s most private search engine</p></li><li><p><a href="https://searx.me/" target="_blank" rel="noopener"><strong>开源搜索引擎——Searx</strong></a></p></li><li><p><a href="https://matrix.org" target="_blank" rel="noopener"><strong>去中心化社交——Matrix</strong></a></p><blockquote><p><a href="https://vimacs.wehack.space/matrix-guide/" target="_blank" rel="noopener">Matrix聊天快速指南</a></p><p><a href="https://matrixim.cc/sfd2017-matrix.pdf" target="_blank" rel="noopener">自由畅聊，我用Matrix</a></p></blockquote></li></ul><p>言论自由就是扩大语言的边界，必然要挑战某种禁忌，而禁忌是大部分人所不敢去触碰的，或者认为是理所当然的。真相总是赤裸裸的，像《皇帝的新衣》中的小孩所指出的那样，所以注定只有少数人去挑战，而不被理解的孤寂几乎是必然的。<strong>问题在于，你愿意成为一个知道世界更多的真相但却不被他人所理解的人吗？毫无疑问，这条路更为艰难，也需要更多的人同行，但只有这样，才有改变的可能，它值得追求。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;主张你不在意个人隐私的权利因为你无不可告人之处，这就等同于你不在意言论自由因为你没什么事情可说。          ——Edward Snowden&lt;/p&gt;
+&lt;p&gt;我们都需要有地方可以去探索而不依靠别人施加在我们身上的眼光，只有在一个不必被放大检视
+      
+    
+    </summary>
+    
+      <category term="技术理念" scheme="https://freeknight.cf/categories/%E6%8A%80%E6%9C%AF%E7%90%86%E5%BF%B5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>归途</title>
+    <link href="https://freeknight.cf/2019/01/10/return/"/>
+    <id>https://freeknight.cf/2019/01/10/return/</id>
+    <published>2019-01-10T13:36:48.000Z</published>
+    <updated>2019-01-20T13:49:04.292Z</updated>
+    
+    <content type="html"><![CDATA[<p>“忽然就流出泪来，忽然想要听到她的声音，而我却什么话都说不出来。”</p><p>李志的这句歌词在脑海中循环播放，走在归途中，一股巨大的悲伤攫住了我，这悲伤，是会让人在深夜里，眼睁睁地看着自己痛哭流涕的。此刻，小雨朦胧的初冬早晨，却向我汹涌地袭击了过来，我难道还能有所抵抗吗？终于，两股热流滑落脸颊。</p><p>舒适温暖的空调房，抵御着外面的寒意，光线朦胧。地板上残留着昨夜的些许混乱，几罐已经打开的椰汁，散落的零食，四散的卡片，还有两个人处于沉睡，被子裹住蜷缩的他们。还有她和她的闺蜜半躺着在玩手机游戏，我想我爱上了她，可是她们要准备回家了。我坐在一个吊篮中，身体随之微微摆动，望着天花板上彩色的气球，想起昨天玩UNO（一种卡牌游戏）时，她就坐在我的左边，我时时用眼睛余光注视她，沉默着欢喜。</p><p>可是现在她就要走了，我应该送她去车站。她们站起身，我急忙问：“你们要走了吗？”她的闺蜜点了点头，然后穿起鞋子先走了出去，带上了门。我站起身，也马上去穿鞋子，她也还在穿。</p><p>我又问她：“你要走了吗？”</p><p>她轻声地回答：“嗯。”</p><p>“那我送送你吧。”</p><p>“外面雨挺大的，不用了吧。”她露出不好意思的神情。</p><p>“没事，没事。”我急切地回答。</p><p>我们几乎同时伸手去抓门柄，触到了她的手，我缩回了手，她打开门，我们依次走了出去。</p><p>我走到一楼等她们，抬头望着她们即将出现的过道。出现，走下楼梯，推开大门，一手拎着行李箱，一手撑着伞，她们就准备踏上归途了。我也打着一把伞，默默地跟在她们身后。</p><p>南方冬天的烟雨飘然下着，寒意还是有一些的，似乎陡增了凄切之悲。凹凸不平的水泥地积聚着灰污污的水，映不出她的容颜。滚动的行李箱充斥着噪音，我本想再和她聊两句，却也只得作罢。公交车站据此不过六、七分钟的脚程，我是否沉默着直到车站呢？结果确只有沉默。</p><p>黑色的帽子，黑色的羽绒服，黑色的丝袜，黑色的鞋子，就像一个黑洞吸引着我的目光，从侧面看，黑色的发丝稍微遮住了白皙的脸蛋，但依稀可见那灵动的眼睛。时光就这么慢慢地走着，我们也这么慢慢地走着，她偶尔会转头看一下我。如果在我们的身后有一台摄影机，就会看见三把分别是黑、深蓝、白的伞下走着两个少女和一个少年，这时，一位老阿姨进入了视野，她会怎么想呢？在她眼里我是不是显得可笑呢？</p><p>近了，车站近了，我的心却越来越远了，在一个固定的时空中，我曾和她那么近，我多么想念她走在我身边的样子。但任何美好的时刻，却都总是匆匆流逝。快乐总是瞬时，而失落将会持续多久呢？</p><p>走到站台，唯一的85路车正好从我们的眼前开过，我暗自窃喜，又从那时光的缝隙中挤出一点沉默，却不曾想由于雨伞的遮盖，在近距离下我什么也看不见。就那么等待着，等待着，她偶尔会把伞抬高看一下我，我用牙齿咬住下嘴唇，显出倔强的样子，同时也偷瞄着她，当然，她和他发着信息。快要发车了，人也多了起来，最后，司机来了，汽车也要发动了。</p><p>她抬起伞，转过头，笑着对我说：“我走啦。”</p><p>我说道：“拜拜。”</p><p>“拜拜。”她轻轻张了张嘴唇。</p><p>她收起雨伞，拎着行李箱，跨上了车，没有回头。由于车内比较温暖，该死的水气凝结，我看不清她了，似乎依然在玩着手机。发动机的轰鸣声开始响起，车门关闭，汽车渐渐离去了，她也渐渐地离去了。我随着汽车走到大路上，看着车子远去，渐渐消失的她，渐渐消失的背影。不禁想起我已逝去的外婆，每当我离去，她总是站在路口，我回头，背后是群山，两边是小河和稻田，外婆就那么站着，我看着，直到看不清。等待有意义吗？又是什么值得我为之停留呢？</p><p>她踏上她的归途，我踏上我的。开始失魂落魄地走在街上，路上没有一个人，我独自打伞走着，或许是天空之城在哭泣。那些憧憬和失去，还真实吗？或许答案会在下一个车站，或者在无数个车站，有答案吗？猛地想起前夜做的梦，我和她的手握在一起，之后不知怎的，我被人叫去，再转头，她就不见了，我穿过一条条过道，在一个个房间中寻找，但是却仿佛进入了一座迷宫，她不见了，她现在会在哪里呢？或许我这辈子是永远地失去她了。</p><p>我想我应该再发几条信息给她，掏出手机，我快速打下两行字，“那一路顺风哦。我会想你的。”迟疑了片刻，我按下了发送，然后迅速把手机放回了口袋，她不会回我的，我想，不过我还是要发的。在信息时代，每次等待她的回复就像等待着审判，每一秒都是一种煎熬，收到则从内心浮现出隐秘的笑容，没有则望着天花板遭受着思念的无期徒刑。</p><p>想起叶芝，他对他喜欢的茅德·冈那种热烈而执着的情感，我也更加明白《当你老了》所包含的那一切。当我去探究一些或许深奥的东西时，不可避免地陷入孤独，一个人越走越孤单。或许她不会明白，可是如果没有她，我获得这些知识真的有意义吗？但是那些孤独、憧憬和失去，总有人去走，而这些悲伤，绝望会分泌出价值的果实。乔伊斯在《一个青年艺术家的画像》里也描述了这样一条孤独的路，即使没有人认同，依然决绝地走下去，如此才有之后的《尤利西斯》。不过这个代价如此之大，作为一个创新者或反抗者，即使他创造出具有永恒魅力的伟大作品，甚至改变了社会，却失去了他所爱的人，这值得吗？不过那些失落的感受，同样是可遇不可求的，把孤单的思念诉诸笔端，是否也算是一种慰藉呢？还是说伟大的作品必然从悲伤中酝酿呢？</p><p>推开眼镜，用袖口用力地抹去泪水，走上我的归途。</p><p>拿出手机，没有消息，她没有回我。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;“忽然就流出泪来，忽然想要听到她的声音，而我却什么话都说不出来。”&lt;/p&gt;
+&lt;p&gt;李志的这句歌词在脑海中循环播放，走在归途中，一股巨大的悲伤攫住了我，这悲伤，是会让人在深夜里，眼睁睁地看着自己痛哭流涕的。此刻，小雨朦胧的初冬早晨，却向我汹涌地袭击了过来，我难道还能有所抵抗吗
+      
+    
+    </summary>
+    
+      <category term="小说" scheme="https://freeknight.cf/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>十三邀系列整理（含完整版）</title>
+    <link href="https://freeknight.cf/2019/01/04/thirteen-invitations/"/>
+    <id>https://freeknight.cf/2019/01/04/thirteen-invitations/</id>
+    <published>2019-01-04T06:54:58.000Z</published>
+    <updated>2019-01-13T07:30:36.829Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>十三邀是一档我十分喜欢的对话节目（当然，主要是因为许知远），引人深思，特整理完整版，方便大家观看。</strong></p><p><a href="https://freeknight.cf/2018/06/24/cultural-programs/"><strong>那些年，我喜欢的文艺节目</strong></a></p></blockquote><ul><li><h3 id="十三邀第一季"><a href="#十三邀第一季" class="headerlink" title="十三邀第一季"></a><a href="http://v.qq.com/detail/4/49622.html" target="_blank" rel="noopener">十三邀第一季</a></h3><ul><li><a href="http://news.qq.com/zt2017/thirteen_in/allmobile.htm" target="_blank" rel="noopener">完整版链接</a></li></ul><blockquote><p><strong>许知远的开场白</strong></p><p>我是一个不太靠谱的作家，试图捕捉时代的精神，却又常常厌恶时代的流行情绪。</p><p>我是个勉强的创业者，努力获得商业上的成功，却又不完全相信商业的逻辑。</p><p>我还开一家书店，书店里只卖我想看的书。</p><p>我对这个过分娱乐化、浅薄的时代心怀不满，希望打破大家思维中的惯性。</p><p>我也想了解这个迅速变迁的时代的新的动力、新的情绪与人们内心的世界。</p><p>我会带着我的偏见出发，等待这些偏见被打破或被再次印证。</p></blockquote><p><strong>第一季嘉宾：罗振宇 / 俞飞鸿 / 姚晨 / 贾樟柯 / 蔡澜 / 冯小刚 / 李安 / 张楚 / 二次元 / 叶淮 / 陈嘉映 / 金承志 / 白先勇</strong></p></li><li><h3 id="十三邀第二季"><a href="#十三邀第二季" class="headerlink" title="十三邀第二季"></a><a href="http://v.qq.com/detail/6/68145.html" target="_blank" rel="noopener">十三邀第二季</a></h3><blockquote><p><strong>许知远的开场白</strong></p><p>我是个不合时宜的作家，着迷世界的复杂性与个体之力量。</p><p>我对技术速度与娱乐驱动的时代持有怀疑。</p><p>我像个笨拙的发问者，好奇他人的观念与经验。</p><p>我不喜欢模糊的立场，却也怀疑过分确定的答案。</p><p>我期待自己是个游荡者，不断拓展知识与情感的边界。</p><p>我也好奇在时代浪潮中，哪些崭新的创造力与想象力正在被孕育。</p><p>我会带着我的偏见与期待再次出发。</p></blockquote><p><strong>第二季嘉宾：</strong></p><ul><li>完整版链接</li></ul><p><strong><a href="https://mp.weixin.qq.com/s/bp-5onf1-vvHB2O3Slof4A" target="_blank" rel="noopener">马东</a> / <a href="https://mp.weixin.qq.com/s/x6cPXYquoCPk3lcM6lwwHA" target="_blank" rel="noopener">克里斯托弗·诺兰</a> / <a href="https://mp.weixin.qq.com/s/SuwZZCWwZiRHjO8Bc0EWXg" target="_blank" rel="noopener">蔡国强</a> / <a href="https://mp.weixin.qq.com/s/8RihtJiveuZblT0ubhzahQ" target="_blank" rel="noopener">张艾嘉</a> / <a href="https://mp.weixin.qq.com/s/Pq1Szdtgbx4b4rmy4KTvNg" target="_blank" rel="noopener">西川</a> / <a href="https://mp.weixin.qq.com/s/CnohFL6LuEux43c0NW0Erg" target="_blank" rel="noopener">汪建</a> / <a href="https://mp.weixin.qq.com/s/dLGppL2WRejVURCkkOWMnQ" target="_blank" rel="noopener">林志玲</a> / <a href="https://mp.weixin.qq.com/s/Ymb5ZnLMk5HirKjqMmUUgQ" target="_blank" rel="noopener">罗大佑</a> / <a href="https://mp.weixin.qq.com/s/mlt83PFSQ0u72_lSEj7b-A" target="_blank" rel="noopener">刘畅</a> / <a href="https://mp.weixin.qq.com/s/IybpPCaZA7kB8J758ku0hA" target="_blank" rel="noopener">许宏</a> / <a href="https://mp.weixin.qq.com/s/1SD30ivC4mrFVMciXtfRDQ" target="_blank" rel="noopener">李诞</a> / <a href="https://mp.weixin.qq.com/s/QUs_X8GR9ECLdBpbymCShw" target="_blank" rel="noopener">王小川</a></strong>/ 姜文(暂无)</p></li><li><h3 id="十三邀第三季"><a href="#十三邀第三季" class="headerlink" title="十三邀第三季"></a><a href="https://v.qq.com/detail/8/80376.html" target="_blank" rel="noopener">十三邀第三季</a></h3><blockquote><p><strong>许知远的开场白</strong></p><p>每次对话，都是一场意外的相遇</p><p>彼此的探测和避免不安，以及自然到来的释然</p><p>他令你重审自我，一些时刻更为专注，另一些时刻则充满怀疑</p><p>他也让你追问生活之意味，他也促你观察生活之矛盾</p><p>高速变化的时代，与个人危机的并存</p><p>唯有更开放的对话，更多元的思考，才能追寻一种兼容之道</p><p>在宽阔的世界中，做一个不狭隘的人</p></blockquote><ul><li>完整版链接</li></ul><p>张艺谋 | <a href="https://v.qq.com/x/page/o0027jql11k.html" target="_blank" rel="noopener">上</a> | <a href="https://v.qq.com/x/page/n00270yij83.html" target="_blank" rel="noopener">下</a></p><p>李宇春 | <a href="https://v.qq.com/x/page/a0027109qty.html" target="_blank" rel="noopener">全</a></p><p>王石 | <a href="https://v.qq.com/x/page/c00276dz6wr.html" target="_blank" rel="noopener">耶路撒冷</a> | <a href="https://v.qq.com/x/page/t0027tq9hvi.html" target="_blank" rel="noopener">海法</a> | <a href="https://v.qq.com/x/page/q0027yx348h.html" target="_blank" rel="noopener">早餐</a> | <a href="https://v.qq.com/x/page/w0027kus05i.html" target="_blank" rel="noopener">沙滩</a></p><p>电台主播 | <a href="https://v.qq.com/x/cover/9e9xsgspszv5lvp/c0710ug8cak.html" target="_blank" rel="noopener">全</a></p><p>寻找谭嗣同 | <a href="https://v.qq.com/x/cover/qzmh79d269dtumk/a0741p702aq.html" target="_blank" rel="noopener">上</a> | <a href="https://v.qq.com/x/page/u0753knk9zy.html" target="_blank" rel="noopener">下</a></p><p>赫拉利 | <a href="https://v.qq.com/x/page/b00289bro11.html" target="_blank" rel="noopener">上海</a> | <a href="https://v.qq.com/x/page/v00280sb9v1.html" target="_blank" rel="noopener">以色列</a></p><p>唐诺 | <a href="https://v.qq.com/x/page/g0028wuzev2.html" target="_blank" rel="noopener">台北</a> | <a href="https://v.qq.com/x/page/i00280i2c9e.html" target="_blank" rel="noopener">北京</a></p><p>徐冰 | <a href="https://v.qq.com/x/page/e002951j6d3.html" target="_blank" rel="noopener">上</a> | <a href="https://v.qq.com/x/page/s0029zfhaq3.html" target="_blank" rel="noopener">中</a> | <a href="https://v.qq.com/x/page/b00292skprh.html" target="_blank" rel="noopener">下</a></p><p>毕赣 | <a href="https://v.qq.com/x/page/q00292uqnnq.html" target="_blank" rel="noopener">全</a></p><p>吴孟达 | <a href="https://v.qq.com/x/page/p0029gzxkfe.html" target="_blank" rel="noopener">上</a> | <a href="https://v.qq.com/x/page/f0029y1r4i1.html" target="_blank" rel="noopener">下</a></p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;十三邀是一档我十分喜欢的对话节目（当然，主要是因为许知远），引人深思，特整理完整版，方便大家观看。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://freeknight.cf/2018/06/24/cultural
+      
+    
+    </summary>
+    
+      <category term="清单" scheme="https://freeknight.cf/categories/%E6%B8%85%E5%8D%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>获得教养的途径</title>
+    <link href="https://freeknight.cf/2018/12/30/access-to-education/"/>
+    <id>https://freeknight.cf/2018/12/30/access-to-education/</id>
+    <published>2018-12-30T07:41:37.000Z</published>
+    <updated>2018-12-30T07:45:32.497Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>作者：赫尔曼·黑塞，节选自《黑塞说书》，杨武能 译</p><p>原载1990~1991年《读书》杂志</p></blockquote><p>真正的修养不追求任何具体的目的，一如所有为了自我完善而作出的努力，本身便有意义。</p><p>对于“教养”也即精神和心灵的完善的追求，并非朝向某些狭隘目标的艰难跋涉，而是我们的自我意识的增强和扩展，使我们的生活更加丰富多彩，享受更多更大的幸福。因此，真正的修养一如真正的体育，同时既是完成又是激励，随处都可到达终点却从不停歇．永远都在半道上，都与宇宙共振，生存于永恒之中。</p><p>为获得真正的教养可以走不同的道路。最重要的途径之一，就是研读世界文学，就是逐渐地熟悉掌握各国的作家和思想家的作品，以及他们在作品中留给我们的思想、经验、象征、幻象和理想的巨大财富。</p><p>世界文学的辉煌殿堂对每—位有志者都敞开着，谁也不必对它收藏之丰富望洋兴叹，因为问题不在于数量。有的人一生中只读过十来本书，却仍然不失为真正的读书人。还有人见书便生吞下去，对什么都能说上几句，然而一切努力全都白费。因为教养得有一个可教养的客体作前提，那就是个性或人格。没有这个前提，教养在一定意义上便落了空，纵然能积累某些知识，却不会产生爱和生命。没有爱的阅读，没有敬重的知识，没有心的教养，是戕害性灵的最严重的罪过之—。</p><p><strong>但单靠报纸和偶然得到的流行文学，是学不会真正意义上的阅读的，而必须读杰作。</strong>杰作常常不像时髦读物那么适口，那么富于刺激性。杰作需要我们认真对待，需要我们在读的时候花力气、下功夫……<strong>我们先得向杰作表明自己的价值，才会发现杰作的真正价值。</strong></p><p>每一位思想家的每一部著作，每一位诗人的每一个诗篇，过一些年都会对读者呈现出新的、变化了的面貌，都将得到新的理解，在他心中唤起新的共鸣。我年轻时初次读歌德的《亲和力》只是似懂非懂，现在我大约第五次重读它了，它完全成了另一本书!</p><p>这类经验的神秘和伟大之处在于：我们越是懂得精细、深入和举一反三地阅读，就越能看出每一个思想和每一部作品的独特性、个性和局限性，看出它全部的美和魅力正是基于这种独特性和个性。在数千年来无计其数的语言和书籍交织成的斑谰锦缎中，在一些个突然彻悟的瞬间．真正的读者会看见一十极其崇高的超现实的幻象，看见那由于百种矛盾的表情神奇地统一起来的人类的容颜。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;作者：赫尔曼·黑塞，节选自《黑塞说书》，杨武能 译&lt;/p&gt;
+&lt;p&gt;原载1990~1991年《读书》杂志&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;真正的修养不追求任何具体的目的，一如所有为了自我完善而作出的努力，本身便有意义。&lt;/p&gt;
+&lt;p&gt;对于“
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://freeknight.cf/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mr.Robot（黑客军团）台词摘录</title>
+    <link href="https://freeknight.cf/2018/12/09/MrRobot-line-excerpt/"/>
+    <id>https://freeknight.cf/2018/12/09/MrRobot-line-excerpt/</id>
+    <published>2018-12-09T04:30:40.000Z</published>
+    <updated>2018-12-30T11:25:31.502Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天终于看完了Mr.Robot第三季，真是神剧。有《V字仇杀队》和《搏击俱乐部》的影子，但是因为是电视剧，承载了更多东西。<strong>孤独患者的自我拉扯，真实与虚幻，秩序与混乱，破坏与重建，还有独具一格的配乐以及深含哲理的台词。</strong>摘录了一些台词如下（翻译来自人人影视字幕组）：</p><p><img src="https://img3.doubanio.com/view/photo/l/public/p2250719361.webp" alt=""></p><p>放一首剧中我最喜欢的音乐</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=524149230&auto=0&height=66"></iframe><h3 id="S01E01"><a href="#S01E01" class="headerlink" title="S01E01"></a>S01E01</h3><p><img src="https://telegra.ph/file/c7132ba05aad44dded7ff.png" alt=""></p><h3 id="S01E05最后的独白"><a href="#S01E05最后的独白" class="headerlink" title="S01E05最后的独白"></a>S01E05最后的独白</h3><p><img src="https://telegra.ph/file/b48bbedcdc8fecb385cb8.png" alt=""></p><p>想起十三邀第三季唐诺那期里，提到博尔赫斯也说过类似的话，他于《沙漠》一文中写道：“我在离金字塔三四百米的地方弯下腰，抓起一把沙子，默默的松手，让它洒落在稍远处，低声说：我正在改变撒哈拉沙漠。这件事微不足道，但是那些并不十分巧妙的话十分确切，我相信积我一生的经验才能说出那句话。”</p><h3 id="S01E07"><a href="#S01E07" class="headerlink" title="S01E07"></a>S01E07</h3><p>虽然才过去一个月，总体来看其实也没那么久。在宇宙日历什么的里，我们的生活是不是就是一个小插曲呢？那就是Sara，一段插曲，连插曲都不算，转眼就曲终人散了，我已经开始习惯她不在了。为此我讨厌自己。一年之后，也许我只会偶尔想起她来，然后她就会变成往事，时不时拿来讲讲，“我认识一个死了的姑娘”，后面还要再补充上，“我把她害死的”，也许我是该讨厌自己。</p><h3 id="S01E10"><a href="#S01E10" class="headerlink" title="S01E10"></a>S01E10</h3><p>这一切有真的吗？看啊！看看这一切！一个建立于幻想之上的世界，用药物合成感情，用广告打心理战，用食物改变思维，用媒体来洗脑，用社交网络建立彼此隔绝可控的泡泡，Real? You want to talk about reality? 我们自世纪之交就没跟真实沾过边了，我们关闭了真实，取出了电池，啃着转基因食品，把吃剩的丢进时刻在增长的人类社会垃圾箱里。我们住的房子，都是垄断集团用剥削来的金钱所建，打上了他们的烙印，催眠自己进入人类史上最大的一梦。你要挖得很深，小子，才能看见真实的东西。</p><h3 id="S02E02"><a href="#S02E02" class="headerlink" title="S02E02"></a>S02E02</h3><p>你仔细观察秩序与混乱的间隙时，会跟我看到一样的东西吗？张力，撕裂，一瞥隐藏的真相。他们为何如此费力地用面具隐藏真实的自己？还是他们带上面具后，才成为真正的自己？有时我好奇你隐藏了什么，我沉默的朋友，你戴着什么样的面具？还是你跟其他人一样充满恐惧？我吗？我害怕吗？不，我不一样。</p><h3 id="S02E03"><a href="#S02E03" class="headerlink" title="S02E03"></a>S02E03</h3><p>恐慌，又来了，还记得吗？那种突如其来的恐惧感，汹涌的恐惧，在我脑袋里打洞，毫不客气，在我脑中筑巢，尖叫。我脑中的尖叫在复苏。</p><p>不断向前的征途，一直挣扎着立足。或许我们都在从正确的问题，蹒跚走向错误的答案，或是从正确的答案走向错误的问题。不管你去哪，或者来自哪里，只要继续蹒跚前进就行。或许这就是全部所需，或许就只能如此了。</p><h3 id="S02E04"><a href="#S02E04" class="headerlink" title="S02E04"></a>S02E04</h3><p>如果我真闭上眼睛</p><p>我会想象多年后是番什么景象</p><p>人难道不该先想清楚这点</p><p>再去为生存抗争吗</p><p>我未来的童话会是怎么样的</p><p>我最终能跟我深深在乎的人心意相通吗？</p><p>我能跟早已失去的朋友再续前缘吗？</p><p>看着我爱的人找到真正的幸福？</p><p>或许这份未来里有</p><p>我不敢想象能接近的人</p><p>甚至向我不该委屈的人道歉</p><p>一个不那么孤独的未来</p><p>一个有朋友家人的未来</p><p>你也会在</p><p>这是我一直想要的世界</p><p>知道吗？</p><p>我很想为之抗争</p><h3 id="S02E07"><a href="#S02E07" class="headerlink" title="S02E07"></a>S02E07</h3><p>小时候，人们总跟我说</p><p>目的地不重要</p><p>旅程才是关键</p><p>但如果目的地就是你呢？</p><p>如果一直都是你呢？</p><hr><p>控制有时是幻觉</p><p>但有时你需要幻觉才能获得控制</p><p>幻想能轻松赋予这世界意义</p><p>用逃避的安逸遮住严酷的现实</p><p>毕竟</p><p>我们不就是因此才生活在屏幕之中吗？</p><p>就是为了避免去看</p><p>为了避免彼此</p><p>为了避免真相？</p><h3 id="S02E11"><a href="#S02E11" class="headerlink" title="S02E11"></a>S02E11</h3><p>我一直觉得门是非常有趣的发明</p><p>它们通往无限想象</p><p>你打开任何一扇门前</p><p>一个充满可能性的世界就在它后面</p><p>直到你打开门</p><p>这些可能性才能变为现实</p><p>它们让我们想象无限可能</p><p>但一把锁</p><p>就让你不去探究那一切</p><p>多么</p><p>懒惰啊</p><h3 id="S02E12"><a href="#S02E12" class="headerlink" title="S02E12"></a>S02E12</h3><p>质疑自己的头脑是一回事</p><p>质疑眼睛和耳朵是另一回事</p><p>但话说回来 我们的感官</p><p>不也只是大脑的普通输入而已吗</p><p>没错 我们依赖它们</p><p>相信它们能精确描绘我们身边的真实</p><p>但如果其实它们不能呢？</p><p>如果我们感知到的根本不是真实世界</p><p>只是头脑的最佳猜测呢？</p><p>而真正的现实混乱不堪</p><p>是永远看不清的模糊图片</p><h3 id="S03E01"><a href="#S03E01" class="headerlink" title="S03E01"></a>S03E01</h3><p>如果我闭上眼睛</p><p>我便能想象</p><p>我们经历的万事万物</p><p>眼之所见，心之所想，手之所做</p><p>都在一个平行宇宙中</p><p>同时展开</p><p>如果这样</p><p>那我们的细胞究竟有多少个副本</p><p>而我们的精神状态是否可结合</p><p>不管结果如何</p><h3 id="S03E02"><a href="#S03E02" class="headerlink" title="S03E02"></a>S03E02</h3><p>一个文明，若让很多公民不满，而被逼造反，既没有，也不配拥有长久的存在。——弗洛伊德</p><h3 id="S03E04"><a href="#S03E04" class="headerlink" title="S03E04"></a>S03E04</h3><p>元数据，数据背后的故事。获取信息是其一，但信息是如何被创造出来的，在哪里，被谁创造的，往往也很有启发性。</p><h3 id="S03E08（My-favorite）"><a href="#S03E08（My-favorite）" class="headerlink" title="S03E08（My favorite）"></a>S03E08（My favorite）</h3><p>我们许了那么多愿之后，会紧紧闭上眼睛，希望等我们睁开眼时，愿望都会成真。我们以为，我们越使劲闭眼，我们的愿望就越强大。虽然那些愿望都没成真，我们还是喜欢那么做，因为反正结局也不是我们最喜欢的部分，而是许愿本身。我起初不懂。</p><p>想恢复一份刚刚删除的文件，有很多原因，你突然间慌乱起来，并意识到，那个你本以为毫无价值的东西，突然变得重要，你突然发现了它的新用途。</p><h3 id="S03E09"><a href="#S03E09" class="headerlink" title="S03E09"></a>S03E09</h3><p>你不能强行推进你的目标，你得煽动他人。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天终于看完了Mr.Robot第三季，真是神剧。有《V字仇杀队》和《搏击俱乐部》的影子，但是因为是电视剧，承载了更多东西。&lt;strong&gt;孤独患者的自我拉扯，真实与虚幻，秩序与混乱，破坏与重建，还有独具一格的配乐以及深含哲理的台词。&lt;/strong&gt;摘录了一些台词如下（翻译
+      
+    
+    </summary>
+    
+      <category term="清单" scheme="https://freeknight.cf/categories/%E6%B8%85%E5%8D%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>文学的想象</title>
+    <link href="https://freeknight.cf/2018/12/01/literary-imagination/"/>
+    <id>https://freeknight.cf/2018/12/01/literary-imagination/</id>
+    <published>2018-12-01T05:57:09.000Z</published>
+    <updated>2018-12-17T13:51:48.257Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>自由即创造</p><p>沟通即和解</p><p>联合即妥协</p></blockquote><p>在这个时代，文学似乎已经边缘化，文学青年似乎也已经沦为边缘人群了，不可避免地，向往着中国八十年代。那时可是文学青年的天堂，当然，更重要的是，一个思想解放的天堂。我相信，在精神上，我同样属于八十年代。</p><p>其实，文学青年在任何时代都是少数派，都是他们那个时代的反叛者，但是正是因为他们的作品，以及所创造的形象，他们的名字随之流传。只不过在这个时代，社交媒体的喧哗掩盖了那些真正进步的声音，但<strong>喧哗与骚动的诡波下同样凝聚着创造的礁石。而真正的自由来自于价值的创造。</strong></p><p><img src="https://pic.36krcnd.com/avatar/201711/06102832/lbcggjlfzgljozka.jpeg!1200" alt=""></p><p>像博尔赫斯说的，“<strong>我认为对于一位作者来讲，最好是他能成为传统的一部分、语言的一部分，因为语言将使用下去而书籍会被遗忘。也许每一个时代都在一遍又一遍地重写同样的书，只是改变或加入一些细节。或许永恒之书皆相同。我们总是在重写古人写过的东西，而这就证明足够了。</strong>”</p><blockquote><p>好奇心是打开一扇门</p><p>想象力是构筑一个世界</p></blockquote><p>而文学作品中的形象正是由想象构筑的，一个作家的伟大就在于构筑的文学形象让我们觉得他就像我们的朋友一样，而作家也变成了一种形象而流传于世。而阅读或写作可以让我们的想象力自由地伸展，直至飞翔在文字的共和国。</p><p>于是同样不可避免地，文学青年是孤独的，“文学是一种苦役，真正爱好文学的人都是孤独的。”刘以鬯说。<strong>所谓“独创”，可能就是在孤独中创造吧。</strong>在一个很多人感到虚无的时代，我们应该重新回归文学的殿堂，读书是一种简单的快乐，能让你获得一种<strong>自由的充实</strong>，摆脱<strong>无聊的空虚</strong>。</p><p>司马迁说，此人皆意有所郁结，不得通其道，故述往事，思来者；叶芝的《当你老了》背后又是藏着多少的无奈；詹姆斯·乔伊斯的《一个青年艺术家的画像》里也有对女孩不欣赏自己能把平凡生活变成具有永恒生命力的伟大作品的愤愤不平。</p><p>孤独于作家是忠实的伴侣，而<strong>阅读与写作的意义就在于在其中寻找到文学传统，发现世界上各处的作者与自己心灵相通，这时候就陷入一种平静的喜悦，一种欣喜的慰藉，孤独开始与自身融为一体。</strong>就像在狭小的房间里而你的思绪充满整个世界，然后发现你也是其中的一份子，以此获得一种永恒。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;自由即创造&lt;/p&gt;
+&lt;p&gt;沟通即和解&lt;/p&gt;
+&lt;p&gt;联合即妥协&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在这个时代，文学似乎已经边缘化，文学青年似乎也已经沦为边缘人群了，不可避免地，向往着中国八十年代。那时可是文学青年的天堂，当然，更重要的是，一
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://freeknight.cf/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>摇滚往事</title>
+    <link href="https://freeknight.cf/2018/11/18/rock-music/"/>
+    <id>https://freeknight.cf/2018/11/18/rock-music/</id>
+    <published>2018-11-18T10:19:18.000Z</published>
+    <updated>2018-11-21T04:55:36.883Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>It’s better to burn out, than fade away. </p><p>与其苟延残喘，不如从容燃烧。</p><p>——Nirvana（涅槃）主唱 Kurt Cobain（科特·柯本）</p></blockquote><p>单读第一季 Vol.73 我要握住你的手</p><audio controls height="100" width="100"> <source src="http://audio.xmcdn.com/group11/M08/9B/FD/wKgDa1ZT0fWAT8ckAJgTNAaoZ1U187.m4a"> <embed height="50" width="100" src="http://audio.xmcdn.com/group11/M08/9B/FD/wKgDa1ZT0fWAT8ckAJgTNAaoZ1U187.m4a"> </audio><p>听着这段音频，我想起2012年伦敦奥运会上传来披头士的Hey Jude，觉得挺好听的，当时完全不曾接触过摇滚乐的我，也不曾想到这首歌的创作者影响如此深远，以至于许多年后听到那张伟大的专辑——佩珀军士的寂寞芳心俱乐部，内心再也无法掩饰震撼。</p><p>而在这段音频里，更是展现了披头士的巨大力量，它所代表的自由与狂放，震撼了克里姆林宫，加速了苏联的垮台，里面也提到一个让我深思的问题，</p><p><strong>文化的力量是不是比科技，比原子弹的影响更大呢？</strong></p><p>时间向过去蔓延，高中的寝室，黑豹的<strong>无地自容</strong>撞击着我的耳膜，前奏一出就已经使我震撼，</p><blockquote><p>人潮人海中  有你有我</p><p>相遇相识相互琢磨</p></blockquote><p>窦唯的声音与歌曲的节奏让我沉醉，这是一种我完全没听过的音乐形式，可我那时也还是不知道这就是摇滚乐，不过依然记得我那个室友疯狂地摇晃着头，手里仿佛拿着棍子，对着虚空中的鼓有节奏地打击，我的天，真他妈激情。带着新鲜的热情，在那个室友的启蒙下，我开始知道黑豹，窦唯，唐朝，听到<strong>Don’t break my heart</strong>，<strong>梦回唐朝</strong>，<strong>九拍</strong>等等，不过由于学习等原因，只剩下朦朦胧胧的记忆了。直到许多年后在播放器里搜索，再次把这些歌一首首地听过去的时候，不得不说，那就是我摇滚乐的启蒙。</p><p>之后上了大学，渐渐深入，发现我最喜欢的还是Pink Floyd（平克·弗洛伊德）和万能青年旅店。</p><p>当我听着平克的<strong>Comfortably Numb</strong>的时候，在椅子上沉醉，陷入舒适的麻木。在听<strong>Time</strong>的时候，又不禁感概时光易逝，韶华难久，悬于安静的绝望，但绝望中又蕴含着希望。再到<strong>Another Brick in the Wall, Pt. 2</strong>，发觉自己不过是墙上的另一块砖，促使我写了一篇<a href="https://freeknight.cf/2018/08/01/the-wall/">The Wall</a>，把墙推倒吧，也是让自己迎来新生。麻木、绝望与恐惧又算得了什么呢？<strong>Wish You Were Here</strong>，你在就好了。</p><p><strong>The Dark Side of the Moon</strong>和<strong>The Wall</strong>两张专辑一直反复听，迷幻的旋律，哲学性和文学性俱佳的歌词，还有<strong>Animals</strong>、<strong>Wish You Were Here</strong>、<strong>The Division Bell</strong>、<strong>The Endless River</strong>这四张专辑。就那么静静地坐着，微微地合上眼睛，任凭声音来耳中游荡，啊，整个人都升华了。</p><p>国内就是万能青年旅店了，充满隐喻的歌词，激情的小号，还有那句流传甚广的</p><blockquote><p>是谁来自山川湖海，却囿于昼夜厨房与爱</p></blockquote><p>现在除了平台上的，还有一首<strong>在这颗行星所有的酒馆</strong>，<a href="https://ipfs.ink/e/QmZmbcArRfwApcm1t71a7X9FMU29q9xFKAys9WE6fDzEB7" target="_blank" rel="noopener">歌词</a></p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=4&id=336807050&auto=0&height=430"></iframe><p>今年开始喜欢<strong>Bob Dylan</strong>(鲍勃·迪伦)和台湾的<strong>草东没有派对</strong>了。鲍勃·迪伦的歌词我认为的有意识流的风格，被称为“叙事诗剧”。</p><audio controls height="100" width="100"> <source src="http://m10.music.126.net/20181121131915/6c9ca9fb8ff6647e3390074d2e000b21/ymusic/4da2/74a2/6996/5d1b5aa36a8d5c793b50eea5ab80de7b.mp3"> <embed height="50" width="100" src="http://m10.music.126.net/20181121131915/6c9ca9fb8ff6647e3390074d2e000b21/ymusic/4da2/74a2/6996/5d1b5aa36a8d5c793b50eea5ab80de7b.mp3"> </audio><p>鲍勃·迪伦的Workingman’s Blues #2</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=1&id=34674226&auto=0&height=430"></iframe><blockquote><p>我想要说的 前人们都说过了<br>我想要做的 有钱人都做过了<br>我想要的公平 都是不公们虚构的</p></blockquote><p>其中这首<strong>烂泥</strong>有年轻人的愤怒，也有对不公的控诉。</p><p>音乐总是带来自由的感觉，而摇滚乐对我来说，是一种个人反叛与解放的标志。</p><hr><h4 id="关于平克·弗洛伊德"><a href="#关于平克·弗洛伊德" class="headerlink" title="关于平克·弗洛伊德"></a>关于平克·弗洛伊德</h4><p>一篇文章</p><blockquote><p><a href="http://www.luoo.net/essay/518" target="_blank" rel="noopener">为何他们最后一个一个离开 Pink Floyd</a></p></blockquote><p>四部影片</p><blockquote><p><a href="https://movie.douban.com/subject/1499895/" target="_blank" rel="noopener">Classic Albums: Pink Floyd - The Dark Side of the Moon</a></p><p><a href="https://movie.douban.com/subject/1296157/" target="_blank" rel="noopener">Pink Floyd The Wall</a></p><p><a href="https://movie.douban.com/subject/25979678/" target="_blank" rel="noopener">Roger Waters: The Wall</a></p><p><a href="https://movie.douban.com/subject/11528325/" target="_blank" rel="noopener">Pink Floyd: The Story of  Wish You Were Here</a></p></blockquote><h4 id="关于万能青年旅店"><a href="#关于万能青年旅店" class="headerlink" title="关于万能青年旅店"></a>关于万能青年旅店</h4><p>一篇文章</p><blockquote><p><a href="https://www.bilibili.com/read/cv295814/" target="_blank" rel="noopener">南方人物週刊：出入太行·驟雨重山·萬能青年旅店</a></p></blockquote><p>一个访谈视频</p><blockquote><p><a href="https://www.bilibili.com/video/av21537489/" target="_blank" rel="noopener">万能青年旅店专访</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;It’s better to burn out, than fade away. &lt;/p&gt;
+&lt;p&gt;与其苟延残喘，不如从容燃烧。&lt;/p&gt;
+&lt;p&gt;——Nirvana（涅槃）主唱 Kurt Cobain（科特·柯本）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://freeknight.cf/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记⑧|读加缪：我反抗，所以我们存在</title>
+    <link href="https://freeknight.cf/2018/11/18/book8/"/>
+    <id>https://freeknight.cf/2018/11/18/book8/</id>
+    <published>2018-11-18T06:24:58.000Z</published>
+    <updated>2018-11-18T10:17:01.985Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>世上的罪恶差不多总是由愚昧无知造成的。没有见识的善良愿望会同罪恶带来同样多的损害。人总是好的比坏的多，实际问题并不在这里。但人的无知程度却有高低的差别，这就是所谓美德和邪恶的分野，而最无可救药的邪恶是这样的一种愚昧无知：自认为什么都知道，于是乎就认为有权杀人。杀人凶犯的灵魂是盲目的，如果没有真知灼见，也就没有真正的善良和崇高的仁爱。——加缪《鼠疫》</strong></p></blockquote><p>最近我读了加缪的四本书，分别是《<a href="https://book.douban.com/subject/4908885/" target="_blank" rel="noopener">局外人</a>》、《<a href="https://book.douban.com/subject/24257403/" target="_blank" rel="noopener">西西弗神话</a>》、《<a href="https://book.douban.com/subject/24257229/" target="_blank" rel="noopener">鼠疫</a>》、《<a href="https://book.douban.com/subject/24257448/" target="_blank" rel="noopener">反抗者</a>》，算是比较系统地了解了加缪的“荒诞—反抗”的体系。</p><p>对于加缪，当年我知道他是“存在主义”大师，并经常与萨特同时出现。读了这些之后，才知道他“深刻地揭示出人在异己的世界中的孤独、个人与自身的日益异化，以及罪恶和死亡的不可避免，但他在揭示出世界的荒诞的同时却并不绝望和颓丧，他主张要在荒诞中奋起反抗，在绝望中坚持真理和正义，他为世人指出了一条基督教和马克思主义以外的自由人道主义道路。”</p><p>在我看来，就是<strong>在虚无中去探寻意义，在荒诞中去坚持反抗</strong>。</p><p>来听一首最近很喜欢的草东没有派对的<strong>烂泥</strong></p><audio controls height="100" width="100"> <source src="https://dl.stream.qqmusic.qq.com/M800004XXjmH27g4Mq.mp3?vkey=6A2AEE76FE05D5E1F627F04F2C13F5FC2EB45A60137C1A6110759E0D590EC9E127330CA27F938E2023F7310AB493AB1DC6AA7A325672BEFF&guid=106876149&uid=0&fromtag=30" type="audio/mpeg"> <embed height="50" width="100" src="https://dl.stream.qqmusic.qq.com/M800004XXjmH27g4Mq.mp3?vkey=6A2AEE76FE05D5E1F627F04F2C13F5FC2EB45A60137C1A6110759E0D590EC9E127330CA27F938E2023F7310AB493AB1DC6AA7A325672BEFF&guid=106876149&uid=0&fromtag=30"> </audio><h3 id="局外人与西西弗神话"><a href="#局外人与西西弗神话" class="headerlink" title="局外人与西西弗神话"></a>局外人与西西弗神话</h3><p>在这部《局外人》中，加缪刻画了一个普通的年轻人默尔索，放到今天来看的话就是活脱脱的“佛系青年”，对一切有一种无所谓的态度，特别是女友问他“我们结婚吧”，他的回答是“结也行，不结也行”。</p><p>但就是这样的一个“佛系青年”，由于一次在海滩边意外地射杀了一个人，法庭开始根据他这个人而不是他意外的罪行对他判处了死刑。<strong>想起胡适说的“沉默的自由”，可怕的是，一个社会让“局外人”入局之后，连保持“佛系”都不可。</strong>特别来说，强迫去歌功颂德，抑或批斗举报。更别提异端了，而对异端的态度反映了社会的自由与宽容程度。</p><p>加缪在《西西弗神话》中讨论的正是在这样的荒诞情况下，人应该怎样生活的问题。西西弗重复着一种劳动，把大石从山下推到山顶，但大石又滚下来，周而复始，很像如今普通上班族的生存状态。而加缪在“局外人”里刻画的默尔索虽然“佛系”，却是“坦诚的人，喜爱光明正大”，“一个无任何英雄行为而自愿为真理而死的人”。</p><p>不得不提季业这段著名的话，上了大学我才明白高中语文老师的良苦用心。</p><blockquote><p><strong>如果天总也不亮，那就摸黑过生活；</strong></p><p><strong>如果发出声音是危险的，那就保持沉默； </strong></p><p><strong>如果自觉无力发光，那就别去照亮别人。 </strong></p><p><strong>但是——不要习惯了黑暗就为黑暗辩护；</strong></p><p><strong>不要为自己的苟且而得意洋洋；</strong></p><p><strong>不要嘲讽那些比自己更勇敢、更有热量的人们。 </strong></p><p><strong>可以卑微如尘土，不可扭曲如蛆虫。  </strong></p></blockquote><p>我想这才是真正的“局外人”吧。</p><h3 id="鼠疫和反抗者"><a href="#鼠疫和反抗者" class="headerlink" title="鼠疫和反抗者"></a>鼠疫和反抗者</h3><p>如果说前面提到的两部作品表达的是在荒诞中保持“局外”的话，那么《鼠疫》和《反抗者》就明确表示要奋起反抗，在“绝望中坚持真理和正义”。</p><p>《鼠疫》写的是一个医生在一个发生鼠疫的城市奋力与鼠疫斗争的故事。面对自己牺牲的危险，依然做好本职的工作，拯救了很多人，虽然平凡，但是伟大。在当下，就是要去和审查系统作斗争，为信息的自由传播出一份力。<strong>像在很多作品中我感受的一样，在这部作品里，我同样感到一个深深的矛盾，就像漫威里的超级英雄一样，如何选择个人与集体的利益？如果你拯救了世界，但是最爱的人却不在身边，最终却失去了她，这真的值得吗？“改变世界”和“改变生活”没想到是矛盾的。</strong></p><p>《反抗者》里写到人的孤独，而对于反抗者来说，他们之间就获得了友谊。不同于笛卡尔的“我思故我在”，加缪提出了“我反抗，故我们存在”。他也告诉我，<strong>做一个真正的好人不是容易的，不同于“局外人”的无所谓，对他人无害，而是要真正地对不公进行反抗，真正地做出行动，而且是积极的行动，同时给予他人以帮助。</strong></p><p>推荐许知远的单读音频第一季 Vol.149 鼠疫</p><audio controls height="100" width="100"> <source src="http://audio.xmcdn.com/group21/M04/ED/B5/wKgJKFhczxTgQcnfAKGE4jdLQVg007.m4a" type="audio/mpeg"> <embed height="50" width="100" src="http://audio.xmcdn.com/group21/M04/ED/B5/wKgJKFhczxTgQcnfAKGE4jdLQVg007.m4a"> </audio>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;世上的罪恶差不多总是由愚昧无知造成的。没有见识的善良愿望会同罪恶带来同样多的损害。人总是好的比坏的多，实际问题并不在这里。但人的无知程度却有高低的差别，这就是所谓美德和邪恶的分野，而最无可救药的邪恶是这样的一种愚昧无知：自认为什么都
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://freeknight.cf/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于克服“数字鸿沟”的一些想法</title>
+    <link href="https://freeknight.cf/2018/11/04/digital-divide/"/>
+    <id>https://freeknight.cf/2018/11/04/digital-divide/</id>
+    <published>2018-11-04T08:27:31.000Z</published>
+    <updated>2018-11-14T13:53:05.367Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>如果说一项新技术的发明总会带来分化，那么处于相对落后一方的人们该如何去接近呢？</strong></p></blockquote><p>如果说人在做出理性判断的过程中，主要是通过获取信息并做出决策的话，那么在信息时代，如何获取优质信息并判断信息的真伪就是一件十分重要的事情。特别是在如今的移动互联网时代，当获取信息变得轻而易举的情况下，获取什么样的信息就变得尤为重要。而这里我想介绍一个概念——“<strong>数字鸿沟</strong>”。</p><blockquote><p>“<strong>数字鸿沟”又称为信息鸿沟，即”信息富有者和信息贫困者之间的鸿沟</strong>“。 最先由美国国家远程通信和信息管理局（NTIA）于1999年在名为《在网络中落伍：定义数字鸿沟》的报告中提出。</p></blockquote><p>我认为克服“数字鸿沟”最大的问题不在于技术，而在于意识。因为技术发展使数字设备的成本下降，获取信息的手段逐渐趋同，能获取的信息相差不多（当然，由于GFW的存在，中国除外），所以我认为是否有想获取更优质信息的意识才是最大的问题（应该也就是所谓的“信息素养”）。</p><p>我认为应该具备如下一些品质：</p><ol><li><strong>拥有好奇心，意识到自己的无知，主动去探索自己知识领域以外的世界。</strong>我们应该时常怀疑自己是否已经成为了“坐井观天”中的青蛙，特别是在中国。如果你听到Google、Facebook、Twitter，想去使用它们的产品，却发现自己无法连接，你会怎么办？我认为应该去寻找方法并问问自己为什么？如果你成功了，你会发现打开了一个新世界，而这我认为是充满乐趣的。<strong>想起《黑客与画家》里讲的，去寻找禁忌的地方，并思考为什么，你会有所发现的。</strong></li><li><strong>追求卓越，不要怕麻烦，不要满足于现状。</strong>当你意识到前面横亘着一堵墙，却因为怕麻烦，放弃了探索新世界，那我认为人生丧失了很大的乐趣。特别是你知道自己有翻越高墙的能力时，就一定要去追求这个领域内最顶尖的东西，这样才能超越自己。比如想想，这个世界上最好的新闻媒体是哪些？最好的出版社是哪些？我想这样才能获取更优质的信息。</li><li><strong>坚持不懈，并勇敢地克服挫折。</strong>我们知道，无论在任何一个领域，达到顶尖都是不容易的。如果你喜欢做某一件事，就去做，坚持做下去，并努力从中创造出一些新的东西。</li><li><strong>诚实和善良，及对公平正义的追求。</strong>获取信息只是手段，用信息做出什么样的决策才是根本。技术并不能解决人的问题，我们需要人文精神，我们应该做一个真诚和正直的人。</li></ol><p>上面是我的一些思考，我想不止于信息时代，任何一个时代，如果想变得优秀，这都是必要的。当然，人不可能永远是理性的，也不应该永远是理性的。</p><p><strong>人生而孤独，但不能永远孤独。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如果说一项新技术的发明总会带来分化，那么处于相对落后一方的人们该如何去接近呢？&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果说人在做出理性判断的过程中，主要是通过获取信息并做出决策的话，那么在信息时代，如何获取优
+      
+    
+    </summary>
+    
+      <category term="技术理念" scheme="https://freeknight.cf/categories/%E6%8A%80%E6%9C%AF%E7%90%86%E5%BF%B5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>反叛者·迷墙</title>
+    <link href="https://freeknight.cf/2018/10/17/rebel/"/>
+    <id>https://freeknight.cf/2018/10/17/rebel/</id>
+    <published>2018-10-17T05:21:25.000Z</published>
+    <updated>2018-10-21T10:26:04.250Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="反叛者"><a href="#反叛者" class="headerlink" title="反叛者"></a>反叛者</h3><p>如果有一天<br>你问我什么是自由<br>我会回答<br>难道不是打破那堵墙吗？<br>难道不是冲破那些狗屁规则的束缚吗？<br>难道不是像鸟儿一样飞翔在蓝色的天空吗？<br>但是这就够了吗？<br>不<br>你还得建起保护你自己的那堵墙<br>你还得织起属于你自己的规则的网<br>你还得飞翔在你自己描绘的天空<br>自由不仅是颠覆外界的规则<br>而且是创造自我的律法</p><h3 id="迷墙"><a href="#迷墙" class="headerlink" title="迷墙"></a>迷墙</h3><p>黑暗<br>无尽的黑暗<br>我以光速奔跑<br>穿过虚无的空间<br>直到遇到了同样虚无的墙<br>我绕道、撞击、翻越<br>这墙似乎如此之高<br>存在希望吗？<br>还是成为井底之蛙？<br>是谁筑起了这道高墙，<br>阻碍我通往那比特之海？<br>回想起那天<br>我听见稻谷在歌唱<br>推开那扇散发出特殊腐朽气味的门<br>窥见她的脸在书本的幻想里<br>如此白净、纯洁、柔软<br>可一切都像彩虹般遥远<br>我怎么也抓不住她的手<br>突然睁开眼睛<br>阳光洒落<br>那迷梦<br>那迷墙<br>思绪还能冲破这一切吗？<br>啊<br>自由之光终将降临</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;反叛者&quot;&gt;&lt;a href=&quot;#反叛者&quot; class=&quot;headerlink&quot; title=&quot;反叛者&quot;&gt;&lt;/a&gt;反叛者&lt;/h3&gt;&lt;p&gt;如果有一天&lt;br&gt;你问我什么是自由&lt;br&gt;我会回答&lt;br&gt;难道不是打破那堵墙吗？&lt;br&gt;难道不是冲破那些狗屁规则的束缚吗？&lt;br&gt;难
+      
+    
+    </summary>
+    
+      <category term="诗歌" scheme="https://freeknight.cf/categories/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记⑦|《舆论》——我们能达成共识吗？</title>
+    <link href="https://freeknight.cf/2018/09/30/book7/"/>
+    <id>https://freeknight.cf/2018/09/30/book7/</id>
+    <published>2018-09-30T06:02:24.000Z</published>
+    <updated>2018-10-17T05:38:27.576Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>人生苦短。在绝大多数情况下，我们所能做的最具独立性的一件事，就是在耐心倾听权威人士的解释后，再通过自己的行为去强化其权威性。——李普曼</strong></p></blockquote><p>今天要分享的一本书是美国著名专栏作家李普曼在新闻传播领域的奠基性著作——<a href="https://book.douban.com/subject/27662713/" target="_blank" rel="noopener">《舆论》</a>。</p><h4 id="其中提出的刻板印象一词已是深入人心，下面一段是对经验的约束条件的描写："><a href="#其中提出的刻板印象一词已是深入人心，下面一段是对经验的约束条件的描写：" class="headerlink" title="其中提出的刻板印象一词已是深入人心，下面一段是对经验的约束条件的描写："></a>其中提出的<strong>刻板印象</strong>一词已是深入人心，下面一段是对经验的约束条件的描写：</h4><blockquote><p>我们每个人都生活、工作在世界的一隅，活动范围限于小圈子之中，密切交往的人届指可数。对于具有广泛影响的公共事件，我们充其量只能了解某个方面或片段。在这一点上，即使是那些起草公约、制定法律、发布政令的“局内人”也不能免俗——他们和处在公约、法律、政令约束之下的普通人没有什么本质的不同。<strong>然而，在时间，空间和数量上，我们的见解又必然覆盖比我们所能直接观察得到的事物更为广泛的范围，这部分见解便是由他人的报道和我们自己的想象拼凑出来的。</strong></p></blockquote><h4 id="信息获取的限制及思维的惰性："><a href="#信息获取的限制及思维的惰性：" class="headerlink" title="信息获取的限制及思维的惰性："></a>信息获取的限制及思维的惰性：</h4><blockquote><p>既然地位和人际关系在很大程度上决定了我们会看到、听到、读到、体验到什么，以及哪些信息能够被获准传达给我们，让我们看到、听到、读到和体验到，那也就难怪我们会<strong>更习惯于进行道义判断而非展开建设性的思考</strong>。但是，<strong>要想进行有效的思考，首先要避免进行判断，这样才能重获一种单纯的视角，摆脱情感因素的影响，令自己充满好奇心并且襟怀坦荡。</strong>整个社会的共同政治观念的形成，需要一种几乎所有人都难以片刻达及的平静且忘我的状态，这显然是不可想象的。但纵观人类历史，事实就是如此。公共事务与每个人休戚相关，但是我们全然沉浸在私人事务中。我们很少花心思拿出时间和注意力去批判性地看待各种观念，我们总是被各种杂事束缚手脚。</p></blockquote><h4 id="如果说不同社会阶层决定了群体的观念，那么这些观念也反映了不同的利益诉求。"><a href="#如果说不同社会阶层决定了群体的观念，那么这些观念也反映了不同的利益诉求。" class="headerlink" title="如果说不同社会阶层决定了群体的观念，那么这些观念也反映了不同的利益诉求。"></a>如果说不同社会阶层决定了群体的观念，那么这些观念也反映了不同的利益诉求。</h4><blockquote><p><strong>体制之所以存在，并非因为人性的扭曲，而是缘于任何群体都会有自己的观念，而普遍性共识的达成根本不会如想象那般水到渠成。</strong>对于绝大多数人来说，想要对自己难以企及的领域有所行动，无疑是千难万难的。他们可以通过各种方式迁徙，可以参与罢工或抵制运动，可以通过喝彩或嘘声表达自己的态度。通过这几种方式，他们偶尔也能够对自己不喜欢的东西加以拒斥，或迫使那些阻碍自己心想事成的人做出让步。<strong>不过，人们一旦采用了群体行动的方式，也就扼杀了建构、设计、协商或治理的可能性。</strong>离开了组织严密的等级制度，公众便无法产生向心力，他们完全有可能因为物价高企而拒绝购买任何东西，或因为薪水微薄而不去上班。工会可以通过群体行动的方式打击自己的敌人，使工会领袖获得与资本家协商甚至达成协议的底气。这样一来，工会完全有可能赢得加入统治者阵营的权利，但这一权利只能通过体制得以行使。一个国家可以发动战争，可仗一旦真的打起来，也必然需要拥有一位至高无上的指挥官。</p></blockquote><h4 id="新闻媒体自身的弱点及如何克服"><a href="#新闻媒体自身的弱点及如何克服" class="headerlink" title="新闻媒体自身的弱点及如何克服"></a>新闻媒体自身的弱点及如何克服</h4><blockquote><p>新闻媒体既不像辛克莱先生希望我们相信的那样行径恶劣、老奸巨猾，也不像民主理论所声称的那样牢不可破、固若金汤。它太脆弱了，实在无法肩负起捍卫人民主权的重担，亦不能自发提供民主主义所想象的那种浑然天成的真相。如果我们一心期待新闻媒体能够提供这种真相，那显然就犯了方向性错误。我们误解了新闻的先天局限性以及社会的无限复杂性；我们高估了自己的忍耐力、公德心和各方面的能力。<strong>我们错误地认为，这个世界上始终存在着某种毫无利益诉求的真相，而我们尚未能从自己的品位出发、通过实实在在的分析将其发掘出来。</strong></p><p>如果有人认为报纸必须要承担起对全人类的总体公共生活进行转译的使命，并使所有成年人都能就每一个悬而未决的事务达成共识，那么他注定要大失所望。报纸过去不能、现在不能，未来也绝不可能完成这一使命。<strong>我们所处的世界是建立在劳动分工和权力分配的基础之上的，这样的世界绝不可能仅凭臆想中的”所有人的共识“便实现有效的治理。</strong>这种观点的人，下意识地认为所有人都是“全能读者”，并寄希望于新闻媒体能达成连代议政府、工业组织和外交政策都无法达成的目标。在一天24小时内，报纸能每个人施加影响的时间不过只有30分钟而已，可人们竟然奢想其能够创造出一种名唤“舆论”的神秘力量去弥补公共体制的漏洞。就连新闻媒体自身，也经常错误地做出“自己可以完成这一任务”的姿态。在我们尚未对民主理论的基本前提做出修正的情况下，新闻界便一味引诱现行民主制度对自身抱有殷切的希望，促使报纸自发地为无法生产信息的全部政府部门及社会议题提供信息成为一种机制。新闻业必将为此付出高昂的道德代价。那些无法在其内部形成知识机制的社会部门，最终变成了社会中的“问题结”（bundle of problems）；而解决这些问题的重担，就压在了始终视新闻媒体为一个整体的“全体人”的肩头。</p><p>换言之，新闻媒体被当成一个直接民主机构，而且人们对它的期待还在随着时间的推移而放大；在人们心中，除了报道新闻之外，媒体还应当发挥与提案、公投和罢免等民主政治程序相似的功能。报纸如同一座“舆论法庭”，不但昼夜无休，而且要对万事万物做出裁决。这一切当然是不可能实现的。若考虑到新闻的天性，这一切甚至是无法想象的。这是因为，正如我们所看到的，新闻的准确性与其所报道的事件在公共记录中的准确性是成正比的。<strong>对于某一事物来说，除非其能够被清晰地命名、测量、赋形和具化，否则便只有两个结果：要么根本不可能变成新闻，要么沦为偏见的产物。</strong></p><p>因此，在总体上，通过对现代社会进行报道的新闻的品质，我们可以管窥各种社会机构的运行状况。<strong>越是处于优势地位的机构，其利益往往越能在新闻中得到充分的体现，其问题往往越能够得到更大程度的解决，新闻对其报道的手法也越客观，其相关事务被呈现为新闻的过程也越顺畅。</strong>所以，新闻媒体往好了说，算是社会机构的仆从或监护人；往坏了说，根本就是一小撮人利用社会秩序的混乱为自己牟利的工具。社会秩序越混乱，某些寡廉鲜耻的记者便越有机会浑水揽鱼，而那些忠于职守的记者却不得不面对种种不确定性因素的挑战。</p></blockquote><h4 id="区块链是否正好可以做到“一个去中心化的、以具有可比性的记录和分析为依据的协同性决策机制”呢？"><a href="#区块链是否正好可以做到“一个去中心化的、以具有可比性的记录和分析为依据的协同性决策机制”呢？" class="headerlink" title="区块链是否正好可以做到“一个去中心化的、以具有可比性的记录和分析为依据的协同性决策机制”呢？"></a>区块链是否正好可以做到“一个去中心化的、以具有可比性的记录和分析为依据的协同性决策机制”呢？</h4><blockquote><p>然而，新闻媒体并不是社会机构的替代品，而更像是探照灯射出的一道躁动不安的光柱，一个接一个地照亮原本藏匿在暗夜中的事物。人不可能仅凭这么一道光柱就对整个世界了然于胸，也不可能仅凭某些插曲、某些事件和某些争端来实现对社会的治理。  只有在自身的观念之光和新闻媒体之光同时照向同一个地方的时候，人们才能够获得充分的智识去共同做出一项决定。<strong>真正的问题并不像新闻媒体所呈现得那样浅显，解决问题的方法也是如此。要想从根本上解决问题，就必须令社会机构建立在分析和记录的基础上，并将这一原则向其他社会领域推广，包括摒弃“全能公民”理论，以及建立一个去中心化的、以具有可比性的记录和分析为依据的协同性决策机制。</strong>假若再在管理机制的中心设立一套审计制度，以确保各职能岗位上的人及各部门的主管更清楚自己的权责所在，那么再出现问题的时候大家就不会像无头苍蝇一样乱撞一气了。此外，这套明显更具优越性的机制不但能够将真正的新闻“揭示给”媒体，也能对媒体的报道过程予以检验。</p><p>当然,这只是一种激进的设想。新闻媒体所面临的困境，与代议政府（无论是区域性的还是功能性的）和工业领域（无论是资本主义的、协作式的还是共产主义的）所面临的困境，均可追溯至一个共同的源头，<strong>那就是自治的人民没有能力通过创设一套认识机制的方式去克服其自身的偶然性经验和偏见。</strong>这是因为他们不得不在缺乏关于世界的可靠图景的情况下采取行动。而政府学校、报纸和教会在修补民主制度显而易见的漏洞，以及矫正人们对于外部事务——包括与那些“索然无味的大事”完全相反的“鸡毛蒜皮的小事”，以及如“三条腿的牛犊”这样的猎奇性事件——所持有的一系列严重的成见、冷漠和偏颇态度的问题上，始终没有取得什么实质性进展。这就是所谓的大众政府最主要的缺陷，这一缺陷深深根植于其传统，成为所有其他缺陷的源头。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;人生苦短。在绝大多数情况下，我们所能做的最具独立性的一件事，就是在耐心倾听权威人士的解释后，再通过自己的行为去强化其权威性。——李普曼&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天要分享的一本书是美国著名专栏作家
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://freeknight.cf/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何快速地获取影视资源及追最新的美剧（进阶）</title>
+    <link href="https://freeknight.cf/2018/09/29/get-moive-and-tv-advanced/"/>
+    <id>https://freeknight.cf/2018/09/29/get-moive-and-tv-advanced/</id>
+    <published>2018-09-29T06:16:18.000Z</published>
+    <updated>2019-01-19T09:39:58.083Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前写了一篇如何优雅地获取影视资源，今天分享的是进阶版。</p><p>作为一个影视剧的粉丝，先分享五个资源网站和一个磁力链接搜索引擎。</p><p><a href="https://agmj.tv/" target="_blank" rel="noopener">AG美剧（可在线观看）</a>，<a href="http://www.dysfz.tv/" target="_blank" rel="noopener">电影首发站</a>，<a href="https://www.pniao.com/" target="_blank" rel="noopener">胖鸟电影</a>，<a href="http://www.zimuzu.io/" target="_blank" rel="noopener">人人影视</a>，<a href="http://www.ttmeiju.vip/" target="_blank" rel="noopener">天天美剧</a>   |   <a href="https://www.btyunsou.co/" target="_blank" rel="noopener">BT搜搜</a></p><p>大家知道，我们平常看片可以把资源网站或磁力链接搜索得到的磁力链离线下载到百度云里看（如果不会，请见<a href="https://freeknight.cf/2018/05/24/book-music-movie/">这篇文章</a>的影视部分）。</p><p>那这里有个痛点，就是在PC端百度云里看视频的话，清晰度不是原画的，作为博主我是看起码720P的资源的，所以我就只能下载到本地了（推荐<a href="http://www.pandownload.com/" target="_blank" rel="noopener">PanDownload</a>)。</p><blockquote><p><strong>磁力链接资源下载到本地首推<a href="http://lx.heikeyun.net" target="_blank" rel="noopener">黑科下载器</a></strong></p><p>据说调用了微云的接口，普通用户可一天免费离线5次</p></blockquote><p>看电影下载到本地是比较好的，不过楼主我还追美剧啊（最后一季的生活大爆炸开始了呀），发现字幕组出的最新的资源并不能在百度云里离线下载。这里推荐<a href="https://freeknight.cf/2018/06/07/IDM/">这篇文章</a>，介绍了用μtorrent web实现BT的边下边播，真是舒服呀！</p><p>不过楼主发现对于最新的资源（楼主追剧心切），比如人人影视发布一个小时的剧，由于下的人少，边下边播速度就比较慢了。</p><p>如果能找到一个网站，实现离线下载，并且清晰度还是原画的话再好不过了，今天楼主就正好找到了这样的一个网站。 </p><blockquote><p><strong>主要适用于追剧。</strong></p></blockquote><p><img src="https://i.loli.net/2018/09/28/5bade9b94f18d.jpg" alt=""></p><p>对于看剧来说实在是太棒了，直接在线看原画视频，美滋滋！</p><p><img src="https://i.loli.net/2018/09/28/5badebabd2ed1.jpg" alt=""></p><p>话不多说，赶紧把<a href="https://www.loadbt.com/c/1592148071" target="_blank" rel="noopener"><strong>注册地址</strong></a>（邀请方式：你我都得500M）给大家，附上生活大爆炸第12季第二集的磁力链接，大家可以试试。</p><p><code>magnet:?xt=urn:btih:69a624ae3b8a4d366a8a9400b7596ac3f4946c97&amp;tr=udp://9.rarbg.to:2710/announce&amp;tr=udp://9.rarbg.me:2710/announce&amp;tr=http://tr.cili001.com:8070/announce&amp;tr=http://tracker.trackerfix.com:80/announce&amp;tr=udp://open.demonii.com:1337&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://p4p.arenabg.com:1337&amp;tr=wss://tracker.openwebtorrent.com&amp;tr=wss://tracker.btorrent.xyz&amp;tr=wss://tracker.fastcast.nz</code></p><p>再附上一篇介绍更多离线下载方式的文章：</p><blockquote><p><a href="https://sspai.com/post/51855" target="_blank" rel="noopener">面对不稳定的百度网盘离线下载，这些备用方案可以帮你应急</a></p></blockquote><p>希望大家看片愉快！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前写了一篇如何优雅地获取影视资源，今天分享的是进阶版。&lt;/p&gt;
+&lt;p&gt;作为一个影视剧的粉丝，先分享五个资源网站和一个磁力链接搜索引擎。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://agmj.tv/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AG美
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://freeknight.cf/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>We Can Make The World Be Better</title>
+    <link href="https://freeknight.cf/2018/09/19/book6/"/>
+    <id>https://freeknight.cf/2018/09/19/book6/</id>
+    <published>2018-09-19T14:00:18.000Z</published>
+    <updated>2019-01-15T12:18:13.902Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>这本书让我想起，有那么一个时候，人们秉心直言，无所畏惧。——马克·科兰斯基</strong></p></blockquote><p>今天我要分享的书是《<a href="https://book.douban.com/subject/26679372/" target="_blank" rel="noopener">1968 : the year that rocked the world</a>》，那是一个理想、暴力与自由共存的年代，在某种程度上，它塑造了今天，就像封皮上所说的，“这是最好的一年，也是最坏的一年，不了解1968年，就不足以了解当今世界”。乔布斯也曾说过，他在精神上永远属于60年代。<strong>它向当时年轻人的心灵植入了一个理念，那就是我们能改变世界，我们能让世界变得更好。</strong></p><p>我们先来听一首万能青年旅店的<strong>乌云典当记</strong></p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=27571374&auto=0&height=66"></iframe><p>关于史实，我就不赘述了，正好好奇心日报出了一个“乌托邦年代”的系列：</p><blockquote><p><a href="https://www.qdaily.com/articles/55521.html" target="_blank" rel="noopener">乌托邦时代逝去 50 周年，法国“五月风暴”的亲历者讲述他在 1968 年那个夏天 | ①</a> </p><p><a href="https://www.qdaily.com/articles/56243.html" target="_blank" rel="noopener">日本老奶奶讲述 50 年前参与学运的过往：那个理想、自由、暴力共存的年代 | ②</a> </p><p><a href="https://www.qdaily.com/articles/59793.html" target="_blank" rel="noopener">1968 年那个愤怒的夏天，如何改变了一个人和她之后的人生 | 完</a></p></blockquote><p>我想介绍一些重要的文献，那些充满了年轻人的理想主义的东西。</p><h3 id="休伦港宣言（Port-Huron-Statement）"><a href="#休伦港宣言（Port-Huron-Statement）" class="headerlink" title="休伦港宣言（Port Huron Statement）"></a>休伦港宣言（Port Huron Statement）</h3><p>1962年6月，自称为“学生争取民主社会”的小圈子，大约有60人聚集在密歇根的休伦港，汤姆·海登（Tom Hayden）起草了一份称为“一代人的议程”的文件，正是休伦港宣言。宣言是这样开头的：</p><blockquote><p><strong>我们是这一代人的成员，我们在至少是适度的舒适中成长，寄宿在大学中，却并不坦然地看着我们所继承的世界。</strong></p></blockquote><blockquote><p> <a href="http://blog.sina.com.cn/s/blog_5f50a8740100tej5.html" target="_blank" rel="noopener"><strong>中文版全文</strong></a></p><p> <a href="https://en.wikisource.org/wiki/Port_Huron_Statement" target="_blank" rel="noopener"><strong>英文版全文</strong></a></p></blockquote><p>回首往事的时候，海登都惊讶于当时自己所使用的宏大词汇。“我到现在都不知道，”几十年后他写道，“当时这种救世主式的意识、这种坚信自己正确的信念，还有这种能够为一代人代言的自信，到底是从哪里冒出来的。”但是它非凡地捕捉到了这一代人的想法、感情与愿景。</p><p>对我来说，相比于如今，当时的美国年轻人是勇敢的，是有改变社会的激情的。在宣言里提到：</p><blockquote><p>有些人希望我们相信，美国人在繁荣昌盛中感到心满意足──把这称为他们对自己在新的世界中的作用内心深处的忧虑外表涂上的一层釉彩岂不更好? 如果说这种忧虑造成对人类事务更不关心的冷漠态度，难道它不也会引起对以下信念的渴求：<strong>现状有可替代的东西，人们能够采取行动以改变学校、工厂、官僚体制和政府的状况。这种渴求既是变革的导火线又是变革的动力，我们正是向人们的这种渴求发出呼吁。</strong>为现状寻求真正民主的替代物，承担对它们进行社会实验的义务，是有价值、能充分发挥才能的人类事业，这项事业今天推动我们前进，我们也希望它推动别人前进。正是在此基础上我们提出这份关于我们的信念和分析的文件，作为二十世纪后期理解和改变人类状况的一种努力，<strong>它植根于这样一个古老的、至今尚未实现的设想──人能获得左右自己生活环境的力量。</strong></p></blockquote><p><img src="https://ww1.sinaimg.cn/large/005YhI8igy1fvfuv291xgj30ko0bh17u" alt=""></p><p><img src="https://i.loli.net/2018/09/20/5ba316f8661b5.png" alt=""></p><h3 id="“-Operation-of-the-Machine-Put-your-bodies-upon-the-gears（机器运行-将你们的身体放到齿轮上）”演讲"><a href="#“-Operation-of-the-Machine-Put-your-bodies-upon-the-gears（机器运行-将你们的身体放到齿轮上）”演讲" class="headerlink" title="“ Operation of the Machine/Put your bodies upon the gears（机器运行/将你们的身体放到齿轮上）”演讲"></a>“ Operation of the Machine/Put your bodies upon the gears（机器运行/将你们的身体放到齿轮上）”演讲</h3><p>这是在美国伯克利大学发生的“言论自由运动”过程中，学生领袖马里奥·萨维奥（Mario Savio）发表的一篇著名演讲，他说道：</p><p><img src="https://i.loli.net/2018/09/20/5ba310d67262a.jpg" alt=""></p><blockquote><p><strong>会有一个时候，当这机器的运转变得如此可憎，令你们从心底作呕不愿再参与，你们甚至都无法心照不宣地参与，你们必须将你们的血肉之躯扑在齿轮上，扑在方向盘上， 扑在杠杆上，扑在整台机器上，你们必须使它停转。你们还必须使操纵和拥有这台机器的人明白，除非你们获得自由，否则将彻底阻止这台机器的运转。</strong></p></blockquote><h3 id="马尔库塞的预言"><a href="#马尔库塞的预言" class="headerlink" title="马尔库塞的预言"></a>马尔库塞的预言</h3><p><img src="https://i.loli.net/2018/09/20/5ba317e2df53a.jpg" alt=""></p><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>在看本书的过程中，我还看了两部关于嬉皮士的纪录片，链接如下：</p><blockquote><p><a href="https://www.bilibili.com/video/av12624555/" target="_blank" rel="noopener">嬉皮之夏/爱之夏 Summer of Love : The American Experience</a></p><p><a href="https://www.bilibili.com/video/av2507420/" target="_blank" rel="noopener">BBC 1967仲夏-爱之夏 BBC-The Summer of 1967 - The Summer of Love</a></p></blockquote><p>无论是在旧金山的海特·亚许柏里街区，还是巴黎的“五月风暴”，特别提到人们和陌生人自由地交谈，开始思考自己、他人和世界。</p><p>还有一部电影——<a href="https://movie.douban.com/subject/7015798/" target="_blank" rel="noopener">寻找小糖人</a>，讲述了一个传奇，由于一个女孩去见在南非的男友，带去了一张罗德里格斯的专辑，然后这个Suger Man在南非成为万人景仰的歌手，但在美国本土他却不为人所知，过着简朴的生活，直到南非有人找到了他……</p><p><img src="https://img3.doubanio.com/view/photo/l/public/p1741882642.webp" alt=""></p><p>他让我明白<strong>我们可以做出自己的选择，我们可以改变一些事情，我们可以持续奋斗，我们可以让精神获得永恒。</strong></p><p>接下来想看加缪的《鼠疫》和《反抗者》了呀。</p><blockquote><p><a href="https://freeknight.cf/2018/11/18/book8/">读书笔记⑧|读加缪：我反抗，所以我们存在</a></p></blockquote><p><strong>Life is Struggle，We Keep Fight. </strong></p><p><strong>在他处闪耀，但独守本心。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这本书让我想起，有那么一个时候，人们秉心直言，无所畏惧。——马克·科兰斯基&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天我要分享的书是《&lt;a href=&quot;https://book.douban.com/subje
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://freeknight.cf/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记⑤|《娱乐至死》</title>
+    <link href="https://freeknight.cf/2018/09/12/book5/"/>
+    <id>https://freeknight.cf/2018/09/12/book5/</id>
+    <published>2018-09-12T12:30:10.000Z</published>
+    <updated>2018-11-25T04:07:31.146Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>照片把世界表现为一个物体，而语言则把世界表现为一个概念。——《娱乐至死》</strong></p></blockquote><p>今天要分享的一本书是尼尔·波兹曼的<a href="https://book.douban.com/subject/1062193/" target="_blank" rel="noopener">娱乐至死</a>，对于这本书，如果看过乔治·奥威尔的《1984》和阿道司·赫胥黎的《美丽新世界》的话就比较容易理解了。</p><blockquote><p><strong>奥威尔害怕的是那些强行禁书的人，赫胥黎担心的是失去任何禁书的理由，因为再也没有人愿意读书；奥威尔害怕的是那些剥夺我们信息的人，赫胥黎担心的是人们在汪洋如海的信息中日益变得被动和自私；奥威尔害怕的是真理被隐瞒，赫胥黎担心的是真理被淹没在无聊烦琐的世事中；奥威尔害怕的是我们的文化成为受制文化，赫胥黎担心的是我们的文化成为充满感官刺激、欲望和无规则游戏的庸俗文化。——《娱乐至死》</strong></p></blockquote><p>不幸的是，某威权主义后期国家被二者同时说中，在封闭的场域中享受娱乐的狂欢。</p><p>其实这本书里讲到的信息的媒介更让我印象深刻，<strong>麦克卢汉曾说过：媒介即信息。</strong>而这本书里提到，<strong>“我们的语言即媒介，我们的媒介即隐喻，我们的隐喻创造了我们的文化的内容。”</strong>印刷术所带来的书面文字比起口头语言和之后照片与视频区别何在呢？似乎书面文字更容易让我们停下来，然后进行思考？<strong>不同的信息形式如何决定它的表达内容？</strong></p><p>其实我们现在手机、电脑带来的冲击与20世纪初电报，无线电带来的信息冲击是相似的，突然的信息爆炸“带给我们的是支离破碎的时间和被割裂的注意力”。</p><blockquote><p><strong>不管是在口头文化还是在印刷术文化中，信息的重要性都在于它可能促成某种行动。——《娱乐至死》</strong></p></blockquote><p>这也正与中国文化中的知行合一相吻合。但是现在的问题就像西塞罗所说的，<strong>教育的目的是让学生们摆脱现实的奴役，而现在的年轻人正竭力作着相反的努力——为了适应现实而改变自己。</strong>每一代的年轻人都应该思考：社会是如何运转的？还能变得更好吗？</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;照片把世界表现为一个物体，而语言则把世界表现为一个概念。——《娱乐至死》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天要分享的一本书是尼尔·波兹曼的&lt;a href=&quot;https://book.douban.com
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://freeknight.cf/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Udacity数据分析（进阶）学习总结</title>
+    <link href="https://freeknight.cf/2018/09/09/udacity-data-analysis/"/>
+    <id>https://freeknight.cf/2018/09/09/udacity-data-analysis/</id>
+    <published>2018-09-09T13:06:06.000Z</published>
+    <updated>2018-12-23T11:08:58.239Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>如果说数据是21世纪的石油，那么数据分析就是对其进行提炼。</strong></p></blockquote><p>今年5月份，我报名了优达学城的数据分析（进阶）纳米学位课程，今天终于完成了四个项目的学习，在快速迭代的新时代下，这种网上学习我认为会变得越来越重要，当然，记录本身也是重要的。</p><p>对于学习动机来说，得追溯到2016年的Alpha Go大胜李世石，在这之后，我开始关注人工智能，然后发现应该学习人工智能应该分三步走，数据分析—机器学习—深度学习，所以就开始了数据分析的学习。在这之前，对于编程语言，我只是在大学一年级的通选课上学习了C语言，对于Python可以说是零基础，但是我对计算机很感兴趣，再加上Python比较简单，就直接报了进阶课程，接下来我就详细地说说学习过程。</p><h2 id="Python的学习"><a href="#Python的学习" class="headerlink" title="Python的学习"></a>Python的学习</h2><p>我先是学习了优达学城的单项课程—<a href="https://cn.udacity.com/course/intro-to-computer-science--cs101" target="_blank" rel="noopener">计算机科学导论</a>，对计算机和Python编程有了一个初步的认识，再学习了<a href="https://cn.udacity.com/course/programming-foundations-with-python--ud036" target="_blank" rel="noopener">编程基础：Python</a>，对面向对象编程有了一定认识。</p><p>之后我又系统地把<a href="https://book.douban.com/subject/26829016/" target="_blank" rel="noopener">Python编程：从入门到实践</a> 过了一遍，把其中每行代码都运行了一遍，收获非常大。它里面有三个项目：分别是游戏入侵外星人，数据可视化及Web项目学习笔记。</p><blockquote><p>入侵外星人代码：<a href="https://github.com/FreeKnightThinker/Alien-Game" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Alien-Game</a></p><p>学习笔记代码：<a href="https://github.com/FreeKnightThinker/Leaning_log" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Leaning_log</a></p></blockquote><p>这样通过这三部分的学习，我对Python编程也有了一定的信心。</p><blockquote><p>##<strong>强调：学习的新同学请勿抄袭以下项目代码，仅供参考！！！</strong></p></blockquote><h2 id="项目一：检验心理学现象"><a href="#项目一：检验心理学现象" class="headerlink" title="项目一：检验心理学现象"></a>项目一：检验心理学现象</h2><h3 id="项目概述"><a href="#项目概述" class="headerlink" title="项目概述"></a>项目概述</h3><p>在此项目中，你将研究一个经典的实验心理学现象，叫做<a href="https://en.wikipedia.org/wiki/Stroop_effect" target="_blank" rel="noopener">斯特鲁普效应</a>。你将稍微了解该实验，创建关于任务结果的假设，并自己研究该任务。然后查看同样执行了该任务的其他人收集的数据，并计算描述结果的统计学数据。最后，你将用假设来解释你的结果。</p><h3 id="项目代码"><a href="#项目代码" class="headerlink" title="项目代码"></a>项目代码</h3><p><a href="https://github.com/FreeKnightThinker/Test_a_Perceptual_Phenomenon" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Test_a_Perceptual_Phenomenon</a></p><h3 id="学习总结"><a href="#学习总结" class="headerlink" title="学习总结"></a>学习总结</h3><p>1、掌握统计学基本概念，特别是假设检验这一块，比如t检验，P值法</p><p>2、Python Pandas库和matplotlib的基本操作</p><h3 id="推荐资源"><a href="#推荐资源" class="headerlink" title="推荐资源"></a>推荐资源</h3><ul><li><a href="https://cn.udacity.com/course/intro-to-inferential-statistics--ud201" target="_blank" rel="noopener">Udacity推论统计学入门</a>（这门课中除了已经学到的t检验外，还加入了方差分析、回归分析和卡方检验等进阶内容，适合已经通过项目的学员进行深入学习）；</li><li><a href="https://www.coursera.org/specializations/statistics" target="_blank" rel="noopener">Coursera专项课程：R语言统计学</a>（Duke大学教授主讲，和Udacity的课程可以互为补充，在某些理论方面探索会更加深入。虽然需要付费做作业，但仅看课程视频就可以学到很多，强烈推荐）；</li><li><a href="https://www.coursera.org/learn/prob1" target="_blank" rel="noopener">台湾大学顽想学概率（一）</a><a href="https://www.coursera.org/learn/prob2" target="_blank" rel="noopener">（二）</a>（要进一步了解统计学原理，概率论是必不可少的。这门中文MOOC以通俗易懂的内容和讲师幽默随和的风格，自上线以来好评不断，习题也十分有挑战性）；</li><li><a href="http://www.xuetangx.com/courses/course-v1:MITx+6_041x+2017_T2/about" target="_blank" rel="noopener">概率论：不确定性的科学</a>（MIT的经典MOOC，一直以来都是Edx上最热门的课程之一，难度和学习强度也相当之大，但授课水平确实无可挑剔，清晰明了。建议空余时间较多并且愿意挑战自己时选修）；</li><li><a href="https://book.douban.com/subject/2201479/" target="_blank" rel="noopener">陈希孺《概率论与数理统计》</a>（国内比较少见的经典数理统计教材）。</li></ul><h2 id="项目二：清洗和分析数据"><a href="#项目二：清洗和分析数据" class="headerlink" title="项目二：清洗和分析数据"></a>项目二：清洗和分析数据</h2><p>这个项目主要是了解了数据分析或数据可视化之前要进行数据收集和数据清洗工作，而有时数据收集花费的时间是最长的。</p><blockquote><p> 现实世界的数据通常都不干净。使用 Python 以及 Python 的库，你可以收集各种来源、各种格式的数据，评估数据的质量和整洁度，然后进行清洗。这个过程叫做数据整理。</p></blockquote><h3 id="项目代码-1"><a href="#项目代码-1" class="headerlink" title="项目代码"></a>项目代码</h3><p><a href="https://github.com/FreeKnightThinker/WeRateDogs" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/WeRateDogs</a></p><h3 id="学习总结-1"><a href="#学习总结-1" class="headerlink" title="学习总结"></a>学习总结</h3><p>1、认真完成视频中布置的练习，认真研读解决方案</p><p>2、带着问题去处理数据，数据是为解决问题服务的</p><p>3、最好学习正则表达式</p><h2 id="项目三：探索性数据分析"><a href="#项目三：探索性数据分析" class="headerlink" title="项目三：探索性数据分析"></a>项目三：探索性数据分析</h2><p>这个项目主要学习R语言，使用 R 并运用探索性数据分析来探索一个变量或多个变量之间的关系，以及在一个选定的数据集中探索分布、异常值和反常现象。</p><h3 id="项目代码-2"><a href="#项目代码-2" class="headerlink" title="项目代码"></a>项目代码</h3><p><a href="https://github.com/FreeKnightThinker/Explore_and_Summarize_Data" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Explore_and_Summarize_Data</a></p><p>###学习总结</p><p>这个项目算是学习一门新课程了，要认真把视频中教程一步步模仿下来。R语言是统计领域常用的编程软件。</p><h3 id="推荐资源-1"><a href="#推荐资源-1" class="headerlink" title="推荐资源"></a>推荐资源</h3><p><a href="https://book.douban.com/subject/20382244/" target="_blank" rel="noopener">R语言实战</a></p><p><a href="https://book.douban.com/subject/24527091/" target="_blank" rel="noopener">ggplot2：数据分析与图形艺术</a></p><h2 id="项目四：讲述一个Tableau故事"><a href="#项目四：讲述一个Tableau故事" class="headerlink" title="项目四：讲述一个Tableau故事"></a>项目四：讲述一个Tableau故事</h2><h3 id="项目概述-1"><a href="#项目概述-1" class="headerlink" title="项目概述"></a>项目概述</h3><p>在此项目中，你将使用 Tableau 创建一个数据可视化，以描述数据故事或突出显示数据集的趋势或模式。你的工作是反映数据可视化的理论和实践，如可视编码、设计原则和有效传达结果。</p><h3 id="项目代码-3"><a href="#项目代码-3" class="headerlink" title="项目代码"></a>项目代码</h3><p><a href="https://github.com/FreeKnightThinker/Tableau_Story" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Tableau_Story</a></p><blockquote><p><strong>真理和人之间最短的距离就是故事。—— Anthony de Mello, One Minute Wisdom</strong></p></blockquote><h3 id="学习总结-2"><a href="#学习总结-2" class="headerlink" title="学习总结"></a>学习总结</h3><p>先要学会如何通过数据来讲述一个故事，数据是为故事服务的，应该先构思好一个框架，通过不断地迭代，达到项目的要求。</p><h3 id="推荐资源-2"><a href="#推荐资源-2" class="headerlink" title="推荐资源"></a>推荐资源</h3><p><a href="https://www.tableau.com/sites/default/files/media/Whitepapers/best-practices_telling_great_stories_zh-cn.pdf" target="_blank" rel="noopener">用数据讲述精彩故事的 5 个最佳实践</a></p><p><a href="https://www.tableau.com/zh-cn/learn/whitepapers/which-chart-or-graph-is-right-for-you" target="_blank" rel="noopener">哪种图表软件是数据分析的理想选择？</a></p><p><a href="https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/story_example.html" target="_blank" rel="noopener">示例 - 一个调查趋势的故事</a></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>学习了数据分析，也算是为以后的机器学习打下了基础，我想编程语言以后会变成英语这样的口头语言一样变得必要吧！</p><p>Time is changing. Keep go ahead.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如果说数据是21世纪的石油，那么数据分析就是对其进行提炼。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今年5月份，我报名了优达学城的数据分析（进阶）纳米学位课程，今天终于完成了四个项目的学习，在快速迭代的新时代下，
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="https://freeknight.cf/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>审美·创造·规则·自由</title>
+    <link href="https://freeknight.cf/2018/09/01/aesthetics-and-creation/"/>
+    <id>https://freeknight.cf/2018/09/01/aesthetics-and-creation/</id>
+    <published>2018-09-01T12:56:51.000Z</published>
+    <updated>2019-01-07T11:06:17.178Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>如果我们在创作戏剧、小说、诗歌或者其他可以想象到的文学形式时，无法像科学家一样获得自由和特权，获得最低限度的追求真理的机会，那么我们会抵达世界何处？万事又有何用？——埃兹拉·庞德</strong></p></blockquote><p><strong>人是观念的产物，所接受的观念塑造了人。</strong>在如今信息爆炸的年代，人不应该被动地被算法所塑造，而是应该<strong>首先问问自己，你想成为一个什么样的人？随之主动地去寻找信息。</strong></p><p>当人在被观念所塑造之后，必然会形成属于他的思维，然而，不是每个人的思维都是系统化的，成体系的，或者说是成一种架构的。<strong>而形成系统化的思维结构后，我认为他就具备了一种审美能力，或者说是品味，也就是对事物具有自己独特的看法。</strong>而人与人之间的区别正是在于品味不同，对于事物的价值判断能力不同，能力高低有时也即品味水平之分，而审美上的距离有时是难以逾越的。</p><p>有了自己独特的品味后，他所创造的事物必然也带上了自己独特的烙印。正是如此，他也创造了一种只属于他自己的规则。当我们在写作时，拥有的是相当大的自由，如果除去思维，语言等等的局限，<strong>当你完成一篇文章，无论如何，文章本身就形成了某种规则或结构。</strong>就像卢梭所说，“人生而自由，却又无往不在枷锁之中”。</p><p>由此来看，<strong>我认为人生的意义就在于拥有自己独特的品味，创造出一种规则，而这种规则可以是内在的，比如自律，也可以是外在的，比如创新，或者是对人类有益的事业。</strong></p><blockquote><p><strong>因为作为一个自我主义者和一个艺术家，最重要的事就是纯粹自主的个体终将摒弃自我，回归到对浩瀚的文化、广大的集体意识和抽象事物、帝国传统和民族良心的探究之中，进而改变这一切。——凯文·伯明翰《最危险的书》</strong></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如果我们在创作戏剧、小说、诗歌或者其他可以想象到的文学形式时，无法像科学家一样获得自由和特权，获得最低限度的追求真理的机会，那么我们会抵达世界何处？万事又有何用？——埃兹拉·庞德&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://freeknight.cf/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Chrome浏览器扩展程序推荐</title>
+    <link href="https://freeknight.cf/2018/08/13/chrome-extensions/"/>
+    <id>https://freeknight.cf/2018/08/13/chrome-extensions/</id>
+    <published>2018-08-13T11:48:56.000Z</published>
+    <updated>2019-01-19T09:38:40.408Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>无扩展，不Chrome.</strong></p></blockquote><p>之前介绍了知名的扩展程序Tampermonkey（油猴）的使用，</p><blockquote><p><a href="https://freeknight.cf/2018/06/13/tampermonkey/">Tampermonkey（油猴）的使用及脚本推荐</a></p></blockquote><p>今天我来推荐以下Chrome(Brave浏览器上也可用)上还有些很有用的扩展，当然需要 <a href="https://ipfs.ink/e/QmdRumkhkcjXDmpDf9A1btjFXL3xY569jAFLZdxCw44qsR" target="_blank" rel="noopener">🚪</a></p><ol><li><strong><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en" target="_blank" rel="noopener">uBlock Origin</a></strong> | 广告拦截插件</li><li><strong><a href="https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo" target="_blank" rel="noopener">crxMouse Chrome手势</a></strong> | 原名:Gestures for Chrome(TM)汉化版.方便,快捷,充分发掘鼠标的所有操作.功能包括:鼠标手势,超级拖曳,滚轮手势,摇杆手势,平滑滚动,标签页列表等。</li><li><strong><a href="https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh" target="_blank" rel="noopener">Infinity新标签页(Pro)</a></strong> | 可能是浏览器上最好用的新标签页。</li><li><strong><a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio" target="_blank" rel="noopener">Enable Copy</a></strong> | Allow selecting, copying, pasting and right clicking in some restricted pages.</li><li><strong><a href="https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb" target="_blank" rel="noopener">Google 翻译</a></strong> | 浏览网页时可轻松查看翻译版本。由Google翻译小组提供。</li><li><strong><a href="https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn" target="_blank" rel="noopener">Google学术搜索按钮</a></strong> | 可让您在浏览网页时查询学术文章。</li><li><strong><a href="https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj" target="_blank" rel="noopener">Google文档、表格及幻灯片的Office编辑</a></strong> | 使用Google文档、表格和幻灯片来查看和编辑Microsoft Word、Excel和PowerPoint文件。</li><li><strong><a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp" target="_blank" rel="noopener">HTTPS Everywhere</a></strong> | 加密网络浏览，自动使用 HTTPS 连接访问站点，更加安全。</li><li><strong><a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn" target="_blank" rel="noopener">MetaMask</a></strong> | 以太坊浏览器插件</li><li><strong><a href="https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm" target="_blank" rel="noopener">Proxy SwitchySharp</a></strong> | 轻松快捷地管理和切换多个代理设置。基于 “Proxy Switchy!” 和 “SwitchyPlus” 开发。</li><li><strong><a href="https://chrome.google.com/webstore/detail/user-agent-switcher-for-g/ffhkkpnppgnfaobgihpdblnhmmbodake" target="_blank" rel="noopener">User-Agent Switcher for Google Chrome</a></strong> | User-Agent Switcher for Google Chrome switches between different user-agents.</li><li><strong><a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne" target="_blank" rel="noopener">Stylus</a></strong> | Stylus 是一个调整网页外观的用户样式管理器。它可让您轻松地为许多热门网站网站安装主题和皮肤。</li><li><strong><a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg" target="_blank" rel="noopener">捕捉网页截图 - FireShot的</a></strong> | 捕捉网页截图，编辑并将它们保存为PDF，JPEG，GIF，PNG或BMP；上传，打印，在Photoshop中打开，复制到剪贴板或电子邮件。</li><li><strong><a href="https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb" target="_blank" rel="noopener">The QR Code Extension</a></strong> | 允许当前页面生成QR码，并使用网络摄像头扫描QR码。</li></ol><p>最后还有两个是<a href="https://freeknight.cf/2018/05/24/book-music-movie/">如何优雅地获取电子书、音乐和影视资源</a>里介绍的两个：</p><blockquote><p><strong><a href="https://chrome.google.com/webstore/detail/readfree-%E4%BC%A0%E9%80%81%E9%97%A8/nnijmebffagpcclklhofdkjeimnmckjp" target="_blank" rel="noopener">ReadFree 传送门</a> </strong>| ReadFree 电子书传送门</p><p><a href="http://readfree.me" target="_blank" rel="noopener">ReadFree</a> 是超好用的电子书分享平台，在这里能找到很多适合在Kindle上阅读的mobi等格式的电子书。本插件能够让你在“豆瓣读书”页面点击一个按钮，直接传送到ReadFree页面。可以在亚马逊图书详情页、京东图书详情页看到豆瓣评分，在选购书籍时作为一种有价值的参考。</p><p><strong><a href="https://listen1.github.io/listen1/" target="_blank" rel="noopener">Listen 1音乐播放器</a></strong></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;无扩展，不Chrome.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;之前介绍了知名的扩展程序Tampermonkey（油猴）的使用，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://fre
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://freeknight.cf/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Wall</title>
+    <link href="https://freeknight.cf/2018/08/01/the-wall/"/>
+    <id>https://freeknight.cf/2018/08/01/the-wall/</id>
+    <published>2018-08-01T12:16:17.000Z</published>
+    <updated>2019-01-11T14:08:07.778Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>All in all you’re just another brick in the wall.<br>你只是墙上的另一块砖</p><p>——Pink Floyd的专辑“The Wall（译为迷墙）” </p></blockquote><p><img src="https://ww3.sinaimg.cn/large/005YhI8igy1fuqvgfghh1j30dw0ch0ti" alt=""></p><p>最初引起我对墙的思考，毫无疑问，是因为”伟大的防火墙”。因此，我开始思考这两个问题：</p><blockquote><ol><li><strong>墙为什么会存在？</strong></li><li><strong>如果没有墙会怎么样？</strong></li></ol></blockquote><p>下文里可能没有这两个问题的解答，得靠读者自己领悟了😜</p><p>然后发现墙越来越成为一个值得思考的意象，经过思考，<strong>我认为墙可以抽象为界限，一般来说，是为了保护自己，抵御外界，但是有时却难免成为封闭的象征。墙最终可能都会被推翻，不过无形的墙难道就真的不存在了吗？人与人之间的隔阂难道不也是一堵墙吗？</strong>我想从三个方面来讨论这个问题：物理实体的墙，虚拟空间的墙，心灵的墙。</p><p>我们先来听一首Beyond的歌，长城</p><audio controls height="100" width="100"> <source src="https://891622172.wodemo.net/down/20180901/313103/beyond%EF%BC%8D%E9%95%BF%E5%9F%8E.mp3" type="audio/mpeg"> <embed height="50" width="100" src="https://891622172.wodemo.net/down/20180901/313103/beyond%EF%BC%8D%E9%95%BF%E5%9F%8E.mp3"> </audio><h3 id="一、作为物理实体的墙"><a href="#一、作为物理实体的墙" class="headerlink" title="一、作为物理实体的墙"></a>一、作为物理实体的墙</h3><p><strong>墙，作为物理实体，我认为首先是为了保护自己，抵御外界的危险，简单来说，房间就是由墙所构成的空间。</strong>它是用来保护自己的（人身，财产或者隐私），构成一种物理上相对安全的空间，从这方面来说，墙是有它的积极意义的。但是，从当年的院子，到如今的单元楼，所谓的“邻居”似乎隔断了一些联系？</p><p>更明显的墙，也更著名的墙，当然要数中国古代的长城（The Great Wall）了，就是为了抵御北方的匈奴。</p><p>时间上更近的墙，就要数柏林墙了，这是意识形态或者社会制度之争在物理实体上的表现。东德人民的翻墙精神也是令人敬佩（关于这段历史大家可以看看<a href="https://book.douban.com/subject/30262204/" target="_blank" rel="noopener">20世纪简史</a>），<strong>众所周知，柏林墙最后倒塌了，这是一次自由的胜利。</strong></p><h3 id="二、作为虚拟空间的墙"><a href="#二、作为虚拟空间的墙" class="headerlink" title="二、作为虚拟空间的墙"></a>二、作为虚拟空间的墙</h3><p>相对于物理空间，这里的虚拟空间我主要指的就是网络空间了。而这里的墙也是指The Great Firewall了。比起有形的墙，这道墙似乎更难以察觉，从长远来看，它所造成的影响可能比柏林墙更大，可以说是一场巨大的社会实验，其对信息的封锁在很大程度上造成信息获取来源上的单一化，从而造成思想上的某种封闭性。</p><blockquote><p><strong>在印刷术的世界里，信息是思想的火药，所以审查者们才需要穿着肃穆的长袍来熄灭点燃的炸药。——大卫·里斯曼</strong></p></blockquote><p><strong>而信息来源的多元化是重要的，只有通过辨别好坏，才能培养自己的判断力，不要迷信权威。</strong><a href="https://ipfs.ink/e/QmdRumkhkcjXDmpDf9A1btjFXL3xY569jAFLZdxCw44qsR" target="_blank" rel="noopener">打开新世界的大门</a>已经成为一种基本技能。</p><p>下面推荐Michael Anti（著名新闻媒体人）在TED上的演讲：在中国巨大的防火墙的背后</p><div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/zh-cn/michael_anti_behind_the_great_firewall_of_china" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div><p>黑客道德崇尚的是所有的信息都应该可以自由获取。</p><blockquote><p>关于黑客道德：可以参见<a href="https://freeknight.cf/2018/04/29/%E4%BA%92%E8%81%94%E7%BD%91%E7%B2%BE%E7%A5%9E%E3%80%81%E5%BC%80%E6%BA%90%E8%BF%90%E5%8A%A8%E5%92%8C%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/">黑客精神、开源运动和去中心化</a></p></blockquote><p>其实有一个<strong>网络独立宣言</strong>，全文摘录如下，来自<a href="https://zh.wikisource.org/zh-hans/%E7%BD%91%E7%BB%9C%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80" target="_blank" rel="noopener">维基文库</a>：</p><blockquote><h4 id="网络独立宣言"><a href="#网络独立宣言" class="headerlink" title="网络独立宣言"></a>网络独立宣言</h4><p>作者：<a href="https://zh.wikisource.org/w/index.php?title=Author:%E7%BA%A6%E7%BF%B0_P._%E5%B7%B4%E6%B4%9B&amp;action=edit&amp;redlink=1" target="_blank" rel="noopener">约翰 P. 巴洛</a> | 1996年<br>译者：<a href="https://zh.wikisource.org/w/index.php?title=Author:%E6%9D%8E%E6%97%AD&amp;action=edit&amp;redlink=1" target="_blank" rel="noopener">李旭</a>　<a href="https://zh.wikisource.org/w/index.php?title=Author:%E6%9D%8E%E5%B0%8F%E6%AD%A6&amp;action=edit&amp;redlink=1" target="_blank" rel="noopener">李小武</a></p><p>工业世界的政府们，你们这些令人生厌的铁血巨人们，我来自网络世界——一个崭新的心灵家园。作为未来的代言人，我代表未来，要求过去的你们别管我们。在我们这里，你们并不受欢迎。在我们聚集的地方，你们没有主权。</p><p>我们没有选举产生的政府，也不可能有这样的政府。所以，我们并无多于自由的权威对你发话。我们宣布，我们正在建造的全球社会空间，将自然独立于你们试图强加给我们的专制。你们没有道德上的权力来统治我们，你们也没有任何强制措施令我们有真正的理由感到恐惧。</p><p>政府的正当权力来自被统治者的同意。你们既没有征求我们的同意，也没有得到我们的同意。我们不会邀请你们。你们不了解我们，也不了解我们的世界。网络世界并不处于你们的领地之内。不要把它想成一个公共建设项目，认为你们可以建造它。你们不能！它是一个自然之举，于我们集体的行动中成长。</p><p>你们没有参加我们的大型聚会对话，也没有在我们的市场中创造财富。你们不了解我们的文化和我们的伦理，或我们的不成文的“法典”（编码），与你们的任何强制性法律相比，它们能够使得我们的社会更加有序。</p><p>你们宣称我们这里有些问题需要你们解决。你们用这样借口来侵犯我们的世界。你们所宣称的许多问题并不存在。哪里确有冲突，哪里有不法行为，我们会发现它们，并以我们自己的方式来解决。我们正在达成我们自己的社会契约。这样的管理将依照我们的世界——而不是你们的世界——的情境而形成。我们的世界与你们的世界截然不同。</p><p>网络世界由信息传输、关系互动和思想本身组成，排列而成我们通讯网络中的一个驻波【1】。我们的世界既无所不在，又虚无飘渺，但它绝不是实体所存的世界。</p><p>我们正在创造一个世界：在那里，所有的人都可加入，不存在因种族、经济实力、武力或出生地点生产的特权或偏见。</p><p>我们正在创造一个世界，在那里，任何人，在任何地方，都可以表达他们的信仰而不用害怕被强迫保持沉默或顺从，不论这种信仰是多么的奇特。</p><p>你们关于财产、表达、身份、迁徙的法律概念及其情境对我们均不适用。所有的这些概念都基于物质实体，而我们这里并不存在物质实体。</p><p>我们的成员没有躯体，因此，与你们不同，我们不能通过物质强制来获得秩序。我们相信，我们的治理将生成于伦理、开明的利己以及共同福利。我们的成员可能分布各地，跨越你们的不同司法管辖区域。我们内部的文化世界所共同认可的惟一法律就是“黄金规则”。我们希望能够在此基础上构建我们独特的解决办法。但是我们决不接受你们试图强加给我们的解决办法。</p><p>在美国，你们现在已经炮制了一部法律，名曰《电信改革法》。它违背了你们自己的宪法，也玷污了杰佛逊、华盛顿、密尔、麦迪逊、德·托克维尔和布兰代斯的梦想。这些梦想现在一定会在我们这里重获新生。</p><p>你们惧怕你们自己的产儿，因为在他们是本地人的世界里，你们永远是移民。因为你们惧怕他们，你们把自己为人父母的责任托付给了你们的官僚机构，而你们自己如此胆怯，不敢直接面对他们。在我们的世界，所有人性的情感与表达，无论是低贱的卑微还是高贵的纯洁的，都是一个不可分割的整体即全球范围的传送对话的组成部分。我们无法将翅膀借以拍击的空气与产生阻力的空气分离开来。</p><p>在中国、德国、法国、俄罗斯、新加坡、意大利以及美国，你们正试图通过建立网络边境哨卡来阻止自由主义的病毒。这在短期内或许可以防止传染，但对一个很快就被传送媒体所覆盖的世界而言，这将不再有效。</p><p>在美国和其他地方，你们日渐衰落的信息工业靠着推行那些在全世界鼓噪的法律而苟延残喘。那些法律竟宣称思想是另一种工业产品，并不比生铁更高贵。而在我们的世界里，人类思想所创造的一切都毫无限制且毫无成本地复制和传播。思想的全球传播不再依赖你们的工厂来实现。</p><p>那些热爱自由和主张自决的前辈们曾经反对外来的权威，与日俱增的敌视和殖民政策使我们成为他们的同道。我们必须声明，我们虚拟的自我并不受你们主权的干涉，虽然我们仍然允许你们统治我们的肉体。我们将跨越星球而传播，故无人能够禁锢我们的思想。</p><p>我们将在网络中创造一种心灵的文明。但愿她将比你们的政府此前所创造的世界更加人道和公正。</p><p>瑞士，达沃斯<br>1996年2月8日</p><p>译注：【1】物理学概念，指波原地振荡而不向前传播的运动状态。</p></blockquote><p><strong>总而言之，信息自由是相当重要的。</strong></p><blockquote><p><strong>无法察觉谎言的社会是没有自由的。——沃尔特·李普曼</strong></p></blockquote><p>其实，规则，法律，秩序又何尝不是一道墙呢？</p><h3 id="三、作为心灵上的墙"><a href="#三、作为心灵上的墙" class="headerlink" title="三、作为心灵上的墙"></a>三、作为心灵上的墙</h3><p>这里我也要分为两方面去思考，一是个人思维上的墙，另一个是人与人之间心灵隔阂的墙。</p><blockquote><p><strong>吾生也有涯，而知也无涯。以有涯随无涯，殆已！——《庄子》</strong></p></blockquote><p>毫无疑问，一个人的知识是有限的，所以作为界限的意义上说，思维上的墙是一定存在的。<strong>不过正是承认这道墙的存在，承认自己的无知，才会保持谦虚，才会不断地追求新的知识。</strong></p><blockquote><p><strong>怕什么真理无穷，进一寸有一寸的欢喜。——胡适</strong></p></blockquote><p>这辈子想读的书，想听的音乐，想看的电影电视剧是不可能看完的了，因为随着时间，总有新的书，新的音乐，新的影视产生，乐趣这样就不会消亡了。</p><p>比起思维上的墙，只要保持好奇心总能不断突破的，而人与人心灵的隔阂就比较复杂了。由于每个人的境遇不同，再加上相遇的时间关系，遇见与错过，创造了多少的爱恨情仇呀！两个人能互相理解已是不易，而整个社会达成共识就更加困难了。</p><blockquote><p>推荐这篇文章：<a href="http://static.owspace.com/wap/294992.html" target="_blank" rel="noopener">我的偏见是为了达成共识</a></p></blockquote><p>墙也是一体两面，矛盾的综合体，有些墙我们是要建立的（比如规则），而有些墙我们是要推翻的。</p><p>最后，我们再来听一首Pink Floyd的THE WALL专辑里的歌，Hey You.</p><audio controls height="100" width="100"> <source src="https://music.163.com/song/media/outer/url?id=4237830.mp3" type="audio/mpeg"> <embed height="50" width="100" src="https://music.163.com/song/media/outer/url?id=4237830.mp3"> </audio><blockquote><p><strong>Together we stand, divided we fell.</strong></p><p><strong>相聚得获重生，分离最终失败。</strong></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;All in all you’re just another brick in the wall.&lt;br&gt;你只是墙上的另一块砖&lt;/p&gt;
+&lt;p&gt;——Pink Floyd的专辑“The Wall（译为迷墙）” &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://freeknight.cf/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+</feed>
