@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://freeknight.cf/"/>
-  <updated>2019-02-02T09:00:58.229Z</updated>
+  <updated>2019-02-02T14:10:10.113Z</updated>
   <id>https://freeknight.cf/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个免费开源的密码管理软件——Lesspass</title>
+    <link href="https://freeknight.cf/2019/02/02/lesspass/"/>
+    <id>https://freeknight.cf/2019/02/02/lesspass/</id>
+    <published>2019-02-02T13:18:24.000Z</published>
+    <updated>2019-02-02T14:10:10.113Z</updated>
+    
+    <content type="html"><![CDATA[<p>众所周知，如今大家要注册各种网站或App，就要设置各种密码。那么可能使用的都是同一种密码，或者要记住各种网站的不同密码，就比较麻烦。今天为大家介绍一款强大的密码管理软件——Lesspass.</p><p>今天为大家介绍一款密码管理软件——Lesspass.</p><blockquote><p>来自网站<a href="https://cybermagicsec.github.io/privacytools-zh/" target="_blank" rel="noopener">隐私工具 - 加密安全对抗全球大规模监控</a>里的密码管理工具部分</p></blockquote><p><img src="https://cybermagicsec.github.io/privacytools-zh/img/tools/LessPass.png" alt=""></p><p>官网：<a href="https://lesspass.com/" target="_blank" rel="noopener">https://lesspass.com/</a></p><blockquote><p>LessPass 是一个免费开源的密码管理软件，它可为网站、电邮等需求产生独特的密码，并依靠一个主密码进行管理。不需要同步，使用的是 PBKDF2 与 SHA-256 加密方式。建议使用浏览器附加组件以更加安全。</p></blockquote><p>推荐安装<a href="https://chrome.google.com/webstore/detail/lesspass/lcmbpoclaodbgkbjafnkbbinogcbnjih" target="_blank" rel="noopener">Chrome扩展</a>，或在<a href="https://chrome-extension-downloader.com" target="_blank" rel="noopener">这里</a>下载</p><p>安装好后是这样的</p><p><img src="https://i.loli.net/2019/02/02/5c559f3471eb4.png" alt=""></p><p>使用起来非常简单，在你要注册的网站点击这个扩展，它会自动填充网站名，接着你输入登录名（用户名）和自己设的主密码，点击生成就能生成复杂的16位密码了。</p><p>Github：<a href="https://github.com/lesspass/lesspass" target="_blank" rel="noopener">https://github.com/lesspass/lesspass</a></p><p>作者的博客介绍：<a href="https://blog.lesspass.com/lesspass-how-it-works-dde742dd18a4?gi=86504addc19a" target="_blank" rel="noopener">LessPass How Does It Works?</a></p><p>一个中文讨论：<a href="https://community.bwbot.org/topic/122/%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6lesspass" target="_blank" rel="noopener">一种新的类型的密码管理软件Lesspass</a></p><blockquote><p><strong>注意事项：</strong></p><ol><li>注意网站域名可能更换的问题，还有前面有没有www的问题，可以统一有或没有www</li><li>有些网站密码不支持特殊字符，可以把%!@按钮点灰</li><li>有些网站密码长度有要求，可以在长度里设置</li><li>通过修改计数器也可以改变密码</li></ol></blockquote><p>当然，对于重要性不同的帐号，密码复杂度也不同，特别是用于找回密码的邮箱等等，大家可以尝试尝试。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;众所周知，如今大家要注册各种网站或App，就要设置各种密码。那么可能使用的都是同一种密码，或者要记住各种网站的不同密码，就比较麻烦。今天为大家介绍一款强大的密码管理软件——Lesspass.&lt;/p&gt;
+&lt;p&gt;今天为大家介绍一款密码管理软件——Lesspass.&lt;/p&gt;
+&lt;bl
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://freeknight.cf/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>那些年，我喜欢的书籍</title>
@@ -493,31 +518,6 @@
     </summary>
     
       <category term="学习笔记" scheme="https://freeknight.cf/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>审美·创造·规则·自由</title>
-    <link href="https://freeknight.cf/2018/09/01/aesthetics-and-creation/"/>
-    <id>https://freeknight.cf/2018/09/01/aesthetics-and-creation/</id>
-    <published>2018-09-01T12:56:51.000Z</published>
-    <updated>2019-01-07T11:06:17.178Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p><strong>如果我们在创作戏剧、小说、诗歌或者其他可以想象到的文学形式时，无法像科学家一样获得自由和特权，获得最低限度的追求真理的机会，那么我们会抵达世界何处？万事又有何用？——埃兹拉·庞德</strong></p></blockquote><p><strong>人是观念的产物，所接受的观念塑造了人。</strong>在如今信息爆炸的年代，人不应该被动地被算法所塑造，而是应该<strong>首先问问自己，你想成为一个什么样的人？随之主动地去寻找信息。</strong></p><p>当人在被观念所塑造之后，必然会形成属于他的思维，然而，不是每个人的思维都是系统化的，成体系的，或者说是成一种架构的。<strong>而形成系统化的思维结构后，我认为他就具备了一种审美能力，或者说是品味，也就是对事物具有自己独特的看法。</strong>而人与人之间的区别正是在于品味不同，对于事物的价值判断能力不同，能力高低有时也即品味水平之分，而审美上的距离有时是难以逾越的。</p><p>有了自己独特的品味后，他所创造的事物必然也带上了自己独特的烙印。正是如此，他也创造了一种只属于他自己的规则。当我们在写作时，拥有的是相当大的自由，如果除去思维，语言等等的局限，<strong>当你完成一篇文章，无论如何，文章本身就形成了某种规则或结构。</strong>就像卢梭所说，“人生而自由，却又无往不在枷锁之中”。</p><p>由此来看，<strong>我认为人生的意义就在于拥有自己独特的品味，创造出一种规则，而这种规则可以是内在的，比如自律，也可以是外在的，比如创新，或者是对人类有益的事业。</strong></p><blockquote><p><strong>因为作为一个自我主义者和一个艺术家，最重要的事就是纯粹自主的个体终将摒弃自我，回归到对浩瀚的文化、广大的集体意识和抽象事物、帝国传统和民族良心的探究之中，进而改变这一切。——凯文·伯明翰《最危险的书》</strong></p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;如果我们在创作戏剧、小说、诗歌或者其他可以想象到的文学形式时，无法像科学家一样获得自由和特权，获得最低限度的追求真理的机会，那么我们会抵达世界何处？万事又有何用？——埃兹拉·庞德&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-      
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://freeknight.cf/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
