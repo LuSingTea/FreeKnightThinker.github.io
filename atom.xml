@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://freeknight.cf/"/>
-  <updated>2019-02-02T14:10:10.113Z</updated>
+  <updated>2019-02-04T15:55:02.293Z</updated>
   <id>https://freeknight.cf/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>除夕夜话</title>
+    <link href="https://freeknight.cf/2019/02/04/chuxi-19/"/>
+    <id>https://freeknight.cf/2019/02/04/chuxi-19/</id>
+    <published>2019-02-04T15:45:20.000Z</published>
+    <updated>2019-02-04T15:55:02.293Z</updated>
+    
+    <content type="html"><![CDATA[<p>Queen乐队的Bohemian Rhapsody</p><audio controls height="100" width="100"> <source src="http://m10.music.126.net/20190205001916/60b50f0fecc8195e376dac69fe9815c3/ymusic/93eb/327a/44e9/b767bb93ebf3c060a05b294db6100e5a.mp3"> <embed height="50" width="100" src="http://m10.music.126.net/20190205001916/60b50f0fecc8195e376dac69fe9815c3/ymusic/93eb/327a/44e9/b767bb93ebf3c060a05b294db6100e5a.mp3"> </audio><p>不得不承认，我是一个敏感的人，是那种在热闹欢乐的场景感到韶光易逝， 继而陷入忧伤的人。</p><p>特别是在今年过年的时候，我看完《波西米亚狂想曲》，坐在饭桌上，脑海中却满是弗雷迪和玛丽互按台灯的场景。</p><p>当然，年少的时候总是感到欢乐的，在街上用小鞭炮把易拉罐炸上二层楼高，随后火药味就蔓延至鼻腔，惊叹炸药的威力。零点的烟花绚烂绽放，短暂美丽的瞬间，少时只觉美丽，如今更添伤逝之感。</p><p>饭桌长辈感叹，以前平时没有肉吃，过年都是抢着肉吃，而如今肉都没有人吃了。是啊，在物质生活丰富后，春节不再意味着一年中能吃上最好的，穿得最漂亮的日子了，甚至还产生了“春节自救指南”。那么在现代充满了流动性的社会，中国人为何把过年看得如此重要呢？当然，家庭的团聚是很重要，亲友间的觥筹交错，把酒言欢（开始明白为何要喝酒，以一种一般人都不喜欢的饮料来敬对方，通过一点小小的牺牲来表达自己的敬意），增添血缘关系之间的感情。不过是否也表明，中国除了家庭，没有其他的组织可以信任，无法在其他的组织中感到温暖，无法在其他地方自由地表达自己的观点？</p><p>而春晚，似乎也沦为了一个过气梗，从当年的流行语之源变成流行语之冢。这几年可以明显感到文化上的衰落，缺乏杰出的文艺作品，1993年能有《霸王别姬》，而现在有什么呢？当物质丰富后必然要求美好的精神生活，当Netflix出品宫斗丧尸片《<a href="https://movie.douban.com/subject/26947951/" target="_blank" rel="noopener">王国</a>》时，为何国内只有《延禧攻略》（吊诡的是最近还被禁播）？这种文化上的创造力又被什么所扼杀呢？ 有人提出要分级，但为何不能呢？答案似乎显而易见，但是问题却成为房间里的大象了。</p><p>当一个人意识到自己真正失去某个人后，看待世界的方式绝对会发生变化。生活就像围着圆桌坐着满满的人，随着时间，其他人渐渐离席，终剩自己独坐，望着空荡的人间。斯人易逝，那些重复的景象在记忆中却不曾散去，因为熟悉，所以怀恋。但是记忆也终将消逝，艺术正是把那些美好的瞬间定格，就像一首歌就能勾起你所有的回想。</p><p>我们终将要自由地表达自己的想法，无论是通过文字、音乐、电影、游戏，还是其他任何形式的创作。</p><p>猪年快乐！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Queen乐队的Bohemian Rhapsody&lt;/p&gt;
+&lt;audio controls height=&quot;100&quot; width=&quot;100&quot;&gt; &lt;source src=&quot;http://m10.music.126.net/20190205001916/60b50f0fecc8
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://freeknight.cf/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>一个免费开源的密码管理软件——Lesspass</title>
@@ -492,32 +516,6 @@
     </summary>
     
       <category term="读书笔记" scheme="https://freeknight.cf/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Udacity数据分析（进阶）学习总结</title>
-    <link href="https://freeknight.cf/2018/09/09/udacity-data-analysis/"/>
-    <id>https://freeknight.cf/2018/09/09/udacity-data-analysis/</id>
-    <published>2018-09-09T13:06:06.000Z</published>
-    <updated>2018-12-23T11:08:58.239Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p><strong>如果说数据是21世纪的石油，那么数据分析就是对其进行提炼。</strong></p></blockquote><p>今年5月份，我报名了优达学城的数据分析（进阶）纳米学位课程，今天终于完成了四个项目的学习，在快速迭代的新时代下，这种网上学习我认为会变得越来越重要，当然，记录本身也是重要的。</p><p>对于学习动机来说，得追溯到2016年的Alpha Go大胜李世石，在这之后，我开始关注人工智能，然后发现应该学习人工智能应该分三步走，数据分析—机器学习—深度学习，所以就开始了数据分析的学习。在这之前，对于编程语言，我只是在大学一年级的通选课上学习了C语言，对于Python可以说是零基础，但是我对计算机很感兴趣，再加上Python比较简单，就直接报了进阶课程，接下来我就详细地说说学习过程。</p><h2 id="Python的学习"><a href="#Python的学习" class="headerlink" title="Python的学习"></a>Python的学习</h2><p>我先是学习了优达学城的单项课程—<a href="https://cn.udacity.com/course/intro-to-computer-science--cs101" target="_blank" rel="noopener">计算机科学导论</a>，对计算机和Python编程有了一个初步的认识，再学习了<a href="https://cn.udacity.com/course/programming-foundations-with-python--ud036" target="_blank" rel="noopener">编程基础：Python</a>，对面向对象编程有了一定认识。</p><p>之后我又系统地把<a href="https://book.douban.com/subject/26829016/" target="_blank" rel="noopener">Python编程：从入门到实践</a> 过了一遍，把其中每行代码都运行了一遍，收获非常大。它里面有三个项目：分别是游戏入侵外星人，数据可视化及Web项目学习笔记。</p><blockquote><p>入侵外星人代码：<a href="https://github.com/FreeKnightThinker/Alien-Game" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Alien-Game</a></p><p>学习笔记代码：<a href="https://github.com/FreeKnightThinker/Leaning_log" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Leaning_log</a></p></blockquote><p>这样通过这三部分的学习，我对Python编程也有了一定的信心。</p><blockquote><p>##<strong>强调：学习的新同学请勿抄袭以下项目代码，仅供参考！！！</strong></p></blockquote><h2 id="项目一：检验心理学现象"><a href="#项目一：检验心理学现象" class="headerlink" title="项目一：检验心理学现象"></a>项目一：检验心理学现象</h2><h3 id="项目概述"><a href="#项目概述" class="headerlink" title="项目概述"></a>项目概述</h3><p>在此项目中，你将研究一个经典的实验心理学现象，叫做<a href="https://en.wikipedia.org/wiki/Stroop_effect" target="_blank" rel="noopener">斯特鲁普效应</a>。你将稍微了解该实验，创建关于任务结果的假设，并自己研究该任务。然后查看同样执行了该任务的其他人收集的数据，并计算描述结果的统计学数据。最后，你将用假设来解释你的结果。</p><h3 id="项目代码"><a href="#项目代码" class="headerlink" title="项目代码"></a>项目代码</h3><p><a href="https://github.com/FreeKnightThinker/Test_a_Perceptual_Phenomenon" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Test_a_Perceptual_Phenomenon</a></p><h3 id="学习总结"><a href="#学习总结" class="headerlink" title="学习总结"></a>学习总结</h3><p>1、掌握统计学基本概念，特别是假设检验这一块，比如t检验，P值法</p><p>2、Python Pandas库和matplotlib的基本操作</p><h3 id="推荐资源"><a href="#推荐资源" class="headerlink" title="推荐资源"></a>推荐资源</h3><ul><li><a href="https://cn.udacity.com/course/intro-to-inferential-statistics--ud201" target="_blank" rel="noopener">Udacity推论统计学入门</a>（这门课中除了已经学到的t检验外，还加入了方差分析、回归分析和卡方检验等进阶内容，适合已经通过项目的学员进行深入学习）；</li><li><a href="https://www.coursera.org/specializations/statistics" target="_blank" rel="noopener">Coursera专项课程：R语言统计学</a>（Duke大学教授主讲，和Udacity的课程可以互为补充，在某些理论方面探索会更加深入。虽然需要付费做作业，但仅看课程视频就可以学到很多，强烈推荐）；</li><li><a href="https://www.coursera.org/learn/prob1" target="_blank" rel="noopener">台湾大学顽想学概率（一）</a><a href="https://www.coursera.org/learn/prob2" target="_blank" rel="noopener">（二）</a>（要进一步了解统计学原理，概率论是必不可少的。这门中文MOOC以通俗易懂的内容和讲师幽默随和的风格，自上线以来好评不断，习题也十分有挑战性）；</li><li><a href="http://www.xuetangx.com/courses/course-v1:MITx+6_041x+2017_T2/about" target="_blank" rel="noopener">概率论：不确定性的科学</a>（MIT的经典MOOC，一直以来都是Edx上最热门的课程之一，难度和学习强度也相当之大，但授课水平确实无可挑剔，清晰明了。建议空余时间较多并且愿意挑战自己时选修）；</li><li><a href="https://book.douban.com/subject/2201479/" target="_blank" rel="noopener">陈希孺《概率论与数理统计》</a>（国内比较少见的经典数理统计教材）。</li></ul><h2 id="项目二：清洗和分析数据"><a href="#项目二：清洗和分析数据" class="headerlink" title="项目二：清洗和分析数据"></a>项目二：清洗和分析数据</h2><p>这个项目主要是了解了数据分析或数据可视化之前要进行数据收集和数据清洗工作，而有时数据收集花费的时间是最长的。</p><blockquote><p> 现实世界的数据通常都不干净。使用 Python 以及 Python 的库，你可以收集各种来源、各种格式的数据，评估数据的质量和整洁度，然后进行清洗。这个过程叫做数据整理。</p></blockquote><h3 id="项目代码-1"><a href="#项目代码-1" class="headerlink" title="项目代码"></a>项目代码</h3><p><a href="https://github.com/FreeKnightThinker/WeRateDogs" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/WeRateDogs</a></p><h3 id="学习总结-1"><a href="#学习总结-1" class="headerlink" title="学习总结"></a>学习总结</h3><p>1、认真完成视频中布置的练习，认真研读解决方案</p><p>2、带着问题去处理数据，数据是为解决问题服务的</p><p>3、最好学习正则表达式</p><h2 id="项目三：探索性数据分析"><a href="#项目三：探索性数据分析" class="headerlink" title="项目三：探索性数据分析"></a>项目三：探索性数据分析</h2><p>这个项目主要学习R语言，使用 R 并运用探索性数据分析来探索一个变量或多个变量之间的关系，以及在一个选定的数据集中探索分布、异常值和反常现象。</p><h3 id="项目代码-2"><a href="#项目代码-2" class="headerlink" title="项目代码"></a>项目代码</h3><p><a href="https://github.com/FreeKnightThinker/Explore_and_Summarize_Data" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Explore_and_Summarize_Data</a></p><p>###学习总结</p><p>这个项目算是学习一门新课程了，要认真把视频中教程一步步模仿下来。R语言是统计领域常用的编程软件。</p><h3 id="推荐资源-1"><a href="#推荐资源-1" class="headerlink" title="推荐资源"></a>推荐资源</h3><p><a href="https://book.douban.com/subject/20382244/" target="_blank" rel="noopener">R语言实战</a></p><p><a href="https://book.douban.com/subject/24527091/" target="_blank" rel="noopener">ggplot2：数据分析与图形艺术</a></p><h2 id="项目四：讲述一个Tableau故事"><a href="#项目四：讲述一个Tableau故事" class="headerlink" title="项目四：讲述一个Tableau故事"></a>项目四：讲述一个Tableau故事</h2><h3 id="项目概述-1"><a href="#项目概述-1" class="headerlink" title="项目概述"></a>项目概述</h3><p>在此项目中，你将使用 Tableau 创建一个数据可视化，以描述数据故事或突出显示数据集的趋势或模式。你的工作是反映数据可视化的理论和实践，如可视编码、设计原则和有效传达结果。</p><h3 id="项目代码-3"><a href="#项目代码-3" class="headerlink" title="项目代码"></a>项目代码</h3><p><a href="https://github.com/FreeKnightThinker/Tableau_Story" target="_blank" rel="noopener">https://github.com/FreeKnightThinker/Tableau_Story</a></p><blockquote><p><strong>真理和人之间最短的距离就是故事。—— Anthony de Mello, One Minute Wisdom</strong></p></blockquote><h3 id="学习总结-2"><a href="#学习总结-2" class="headerlink" title="学习总结"></a>学习总结</h3><p>先要学会如何通过数据来讲述一个故事，数据是为故事服务的，应该先构思好一个框架，通过不断地迭代，达到项目的要求。</p><h3 id="推荐资源-2"><a href="#推荐资源-2" class="headerlink" title="推荐资源"></a>推荐资源</h3><p><a href="https://www.tableau.com/sites/default/files/media/Whitepapers/best-practices_telling_great_stories_zh-cn.pdf" target="_blank" rel="noopener">用数据讲述精彩故事的 5 个最佳实践</a></p><p><a href="https://www.tableau.com/zh-cn/learn/whitepapers/which-chart-or-graph-is-right-for-you" target="_blank" rel="noopener">哪种图表软件是数据分析的理想选择？</a></p><p><a href="https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/story_example.html" target="_blank" rel="noopener">示例 - 一个调查趋势的故事</a></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>学习了数据分析，也算是为以后的机器学习打下了基础，我想编程语言以后会变成英语这样的口头语言一样变得必要吧！</p><p>Time is changing. Keep go ahead.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;如果说数据是21世纪的石油，那么数据分析就是对其进行提炼。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;今年5月份，我报名了优达学城的数据分析（进阶）纳米学位课程，今天终于完成了四个项目的学习，在快速迭代的新时代下，
-      
-    
-    </summary>
-    
-      <category term="学习笔记" scheme="https://freeknight.cf/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
   </entry>
