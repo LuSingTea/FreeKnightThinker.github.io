@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://freeknight.cf/"/>
-  <updated>2019-02-27T12:18:37.587Z</updated>
+  <updated>2019-03-02T06:16:41.150Z</updated>
   <id>https://freeknight.cf/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何获取影视资源[3]:磁力链接搜索引擎&amp;生肉资源 + 字幕</title>
+    <link href="https://freeknight.cf/2019/03/02/rarbg/"/>
+    <id>https://freeknight.cf/2019/03/02/rarbg/</id>
+    <published>2019-03-02T04:25:01.000Z</published>
+    <updated>2019-03-02T06:16:41.150Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><strong>实现真正的言论和文化传播自由。——海盗湾（The Pirate Bay）</strong></p></blockquote><p>之前分别写了两篇关于获取影视资源的，这是第三篇。</p><blockquote><p><a href="https://freeknight.cf/2018/05/24/book-music-movie/">如何优雅地获取电子书、音乐和影视资源</a></p><p><a href="https://freeknight.cf/2018/09/29/get-moive-and-tv-advanced/">磁力链接下载神器：黑科云和LoadBt</a></p></blockquote><p>熟悉BT下载的朋友应该都知道，影视资源主要先是生肉（未汉化的资源），然后经过国内的字幕组（感谢字幕组！❤）汉化后（所谓内嵌字幕）再广泛传播的。那么我们其实也可以直接下载生肉资源，再下载字幕，然后再播放器里添加字幕即可。</p><p>那么说到全世界最大的BT资源站，不得不提著名的海盗湾。</p><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/200px-The_Pirate_Bay_logo.svg.png" alt=""></p><blockquote><p>海盗湾（英语：The Pirate Bay，缩写：TPB）是一个专门存储、分类及搜索Bittorrent种子文件及磁力链接的网站，由瑞典的民间反著作权组织海盗署于2003年成立，支持35种语言。</p></blockquote><p>官网：<a href="https://thepiratebay.org/" target="_blank" rel="noopener">https://thepiratebay.org/</a> （需代理）</p><p>这里有两篇介绍：</p><blockquote><p><a href="https://www.huxiu.com/article/257736.html" target="_blank" rel="noopener">“海盗湾”靠什么活了十五年？</a></p><p><a href="https://www.qdaily.com/articles/4317.html" target="_blank" rel="noopener">海盗湾和政府搏斗的这 11 年</a></p></blockquote><hr><p>这里先介绍一个磁力链接搜索引擎，BT云搜</p><p><img src="https://file.globalupload.io/pJCmZQJ5CS.png" alt=""></p><p>官网：<a href="https://www.btyunsou.cc/" target="_blank" rel="noopener">https://www.btyunsou.cc/</a></p><p>比如我们搜索黑暗骑士</p><p><img src="https://file.globalupload.io/yd36GHyHWa.png" alt=""></p><blockquote><p>注意：无法打开的时候在地址栏前加上<code>https://</code></p></blockquote><p>就可以看到了</p><p><img src="https://file.globalupload.io/HjWva51Tgy.png" alt=""></p><p>点击里面就是磁力链接了。</p><blockquote><p><strong>还是推荐圣城，CMCT或人人影视字幕组出品的资源</strong></p></blockquote><hr><p>还要介绍的一个磁力链接资源站是RARBG</p><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/RARBG_Logo.png/250px-RARBG_Logo.png" alt=""></p><p>官网：<a href="https://rarbgprx.org/torrents.php" target="_blank" rel="noopener">https://rarbgprx.org/torrents.php</a></p><p><img src="https://file.globalupload.io/bKizJUWgON.png" alt=""></p><p>比如我们点击倒数第二个，蜘蛛侠：平行宇宙</p><p><img src="https://file.globalupload.io/NfjDbEeub7.png" alt=""></p><p>右键复制磁力链接地址，就可以在<a href="https://www.loadbt.com/c/1592148071" target="_blank" rel="noopener">LoadBt</a>（推荐，离线下载很快）或μtorrent下载了。</p><p>下载完生肉资源后，就要找字幕了，这里推荐几个字幕站</p><ol><li><a href="http://subhd.com/" target="_blank" rel="noopener">Sub HD 字幕站</a></li><li><a href="https://www.zimuku.cn/" target="_blank" rel="noopener">字幕库</a></li><li><a href="http://assrt.net/" target="_blank" rel="noopener">伪射手</a></li></ol><p>祝大家观影愉快！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://freeknight.cf/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>那些年，我喜欢的影视</title>
@@ -438,29 +461,6 @@
     <updated>2019-02-25T05:21:40.063Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>自由即创造</p><p>沟通即和解</p><p>联合即妥协</p></blockquote><p>在这个时代，文学似乎已经边缘化，文学青年似乎也已经沦为边缘人群了，不可避免地，向往着中国八十年代。那时可是文学青年的天堂，当然，更重要的是，一个思想解放的天堂。我相信，在精神上，我同样属于八十年代。</p><blockquote><p>作家査建英说：“在八十年代，人们像对待初恋情人一样痴迷地追求知识、追求创作，把阅读、探索和思索作为生活中最大的愉悦，并且感到幸福，很浪漫也很诗意。”</p></blockquote><p>其实，文学青年在任何时代都是少数派，都是他们那个时代的反叛者，但是正是因为他们的作品，以及所创造的形象，他们的名字随之流传。只不过在这个时代，社交媒体的喧哗掩盖了那些真正进步的声音，但<strong>喧哗与骚动的诡波下同样凝聚着创造的礁石。而真正的自由来自于价值的创造。</strong></p><p><img src="https://pic.36krcnd.com/avatar/201711/06102832/lbcggjlfzgljozka.jpeg!1200" alt=""></p><p>像博尔赫斯说的，“<strong>我认为对于一位作者来讲，最好是他能成为传统的一部分、语言的一部分，因为语言将使用下去而书籍会被遗忘。也许每一个时代都在一遍又一遍地重写同样的书，只是改变或加入一些细节。或许永恒之书皆相同。我们总是在重写古人写过的东西，而这就证明足够了。</strong>”</p><blockquote><p>好奇心是打开一扇门</p><p>想象力是构筑一个世界</p></blockquote><p>而文学作品中的形象正是由想象构筑的，一个作家的伟大就在于构筑的文学形象让我们觉得他就像我们的朋友一样，而作家也变成了一种形象而流传于世。而阅读或写作可以让我们的想象力自由地伸展，直至飞翔在文字的共和国。</p><p>于是同样不可避免地，文学青年是孤独的，“文学是一种苦役，真正爱好文学的人都是孤独的。”刘以鬯说。<strong>所谓“独创”，可能就是在孤独中创造吧。</strong>在一个很多人感到虚无的时代，我们应该重新回归文学的殿堂，读书是一种简单的快乐，能让你获得一种<strong>自由的充实</strong>，摆脱<strong>无聊的空虚</strong>。</p><p>司马迁说，此人皆意有所郁结，不得通其道，故述往事，思来者；叶芝的《当你老了》背后又是藏着多少的无奈；詹姆斯·乔伊斯的《一个青年艺术家的画像》里也有对女孩不欣赏自己能把平凡生活变成具有永恒生命力的伟大作品的愤愤不平。</p><p>孤独于作家是忠实的伴侣，而<strong>阅读与写作的意义就在于在其中寻找到文学传统，发现世界上各处的作者与自己心灵相通，这时候就陷入一种平静的喜悦，一种欣喜的慰藉，孤独开始与自身融为一体。</strong>就像在狭小的房间里而你的思绪充满整个世界，然后发现你也是其中的一份子，以此获得一种永恒。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://freeknight.cf/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>摇滚往事</title>
-    <link href="https://freeknight.cf/2018/11/18/rock-music/"/>
-    <id>https://freeknight.cf/2018/11/18/rock-music/</id>
-    <published>2018-11-18T10:19:18.000Z</published>
-    <updated>2019-02-24T09:05:50.511Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>It’s better to burn out, than fade away. </p><p>与其苟延残喘，不如从容燃烧。</p><p>——Nirvana（涅槃）主唱 Kurt Cobain（科特·柯本）</p></blockquote><p>单读第一季 Vol.73 我要握住你的手</p><audio controls height="100" width="100"> <source src="http://audio.xmcdn.com/group11/M08/9B/FD/wKgDa1ZT0fWAT8ckAJgTNAaoZ1U187.m4a"> <embed height="50" width="100" src="http://audio.xmcdn.com/group11/M08/9B/FD/wKgDa1ZT0fWAT8ckAJgTNAaoZ1U187.m4a"> </audio><p>听着这段音频，我想起2012年伦敦奥运会上传来披头士的Hey Jude，觉得挺好听的，当时完全不曾接触过摇滚乐的我，也不曾想到这首歌的创作者影响如此深远，以至于许多年后听到那张伟大的专辑——佩珀军士的寂寞芳心俱乐部，内心再也无法掩饰震撼。</p><p>而在这段音频里，更是展现了披头士的巨大力量，它所代表的自由与狂放，震撼了克里姆林宫，加速了苏联的垮台，里面也提到一个让我深思的问题，</p><p><strong>文化的力量是不是比科技，比原子弹的影响更大呢？</strong></p><p>时间向过去蔓延，高中的寝室，黑豹的<strong>无地自容</strong>撞击着我的耳膜，前奏一出就已经使我震撼，</p><blockquote><p>人潮人海中  有你有我</p><p>相遇相识相互琢磨</p></blockquote><p>窦唯的声音与歌曲的节奏让我沉醉，这是一种我完全没听过的音乐形式，可我那时也还是不知道这就是摇滚乐，不过依然记得我那个室友疯狂地摇晃着头，手里仿佛拿着棍子，对着虚空中的鼓有节奏地打击，我的天，真他妈激情。带着新鲜的热情，在那个室友的启蒙下，我开始知道黑豹，窦唯，唐朝，听到<strong>Don’t break my heart</strong>，<strong>梦回唐朝</strong>，<strong>九拍</strong>等等，不过由于学习等原因，只剩下朦朦胧胧的记忆了。直到许多年后在播放器里搜索，再次把这些歌一首首地听过去的时候，不得不说，那就是我摇滚乐的启蒙。</p><p>之后上了大学，渐渐深入，发现我最喜欢的还是Pink Floyd（平克·弗洛伊德）和万能青年旅店。</p><p>当我听着平克的<strong>Comfortably Numb</strong>的时候，在椅子上沉醉，陷入舒适的麻木。在听<strong>Time</strong>的时候，又不禁感概时光易逝，韶华难久，悬于安静的绝望，但绝望中又蕴含着希望。再到<strong>Another Brick in the Wall, Pt. 2</strong>，发觉自己不过是墙上的另一块砖，促使我写了一篇<a href="https://freeknight.cf/2018/08/01/the-wall/">The Wall</a>，把墙推倒吧，也是让自己迎来新生。麻木、绝望与恐惧又算得了什么呢？<strong>Wish You Were Here</strong>，你在就好了。</p><p><strong>The Dark Side of the Moon</strong>和<strong>The Wall</strong>两张专辑一直反复听，迷幻的旋律，哲学性和文学性俱佳的歌词，还有<strong>Animals</strong>、<strong>Wish You Were Here</strong>、<strong>The Division Bell</strong>、<strong>The Endless River</strong>这四张专辑。就那么静静地坐着，微微地合上眼睛，任凭声音来耳中游荡，啊，整个人都升华了。</p><p>国内就是万能青年旅店了，充满隐喻的歌词，激情的小号，还有那句流传甚广的</p><blockquote><p>是谁来自山川湖海，却囿于昼夜厨房与爱</p></blockquote><p>现在除了平台上的，还有一首<strong>在这颗行星所有的酒馆</strong>，<a href="https://ipfs.ink/e/QmZmbcArRfwApcm1t71a7X9FMU29q9xFKAys9WE6fDzEB7" target="_blank" rel="noopener">歌词</a></p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=4&id=336807050&auto=0&height=430"></iframe><p>今年开始喜欢<strong>Bob Dylan</strong>(鲍勃·迪伦)和台湾的<strong>草东没有派对</strong>了。鲍勃·迪伦的歌词我认为的有意识流的风格，被称为“叙事诗剧”。</p><audio controls height="100" width="100"> <source src="https://file.globalupload.io/D523ReQ0ux.MP3"> <embed height="50" width="100" src="https://file.globalupload.io/D523ReQ0ux.MP3"> </audio><p>鲍勃·迪伦的Workingman’s Blues #2</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=1&id=34674226&auto=0&height=430"></iframe><blockquote><p>我想要说的 前人们都说过了<br>我想要做的 有钱人都做过了<br>我想要的公平 都是不公们虚构的</p></blockquote><p>其中这首<strong>烂泥</strong>有年轻人的愤怒，也有对不公的控诉。</p><p>音乐总是带来自由的感觉，而摇滚乐对我来说，是一种个人反叛与解放的标志。</p><hr><h4 id="关于平克·弗洛伊德"><a href="#关于平克·弗洛伊德" class="headerlink" title="关于平克·弗洛伊德"></a>关于平克·弗洛伊德</h4><p>一篇文章</p><blockquote><p><a href="http://www.luoo.net/essay/518" target="_blank" rel="noopener">为何他们最后一个一个离开 Pink Floyd</a></p></blockquote><p>四部影片</p><blockquote><p><a href="https://movie.douban.com/subject/1499895/" target="_blank" rel="noopener">Classic Albums: Pink Floyd - The Dark Side of the Moon</a></p><p><a href="https://movie.douban.com/subject/1296157/" target="_blank" rel="noopener">Pink Floyd The Wall</a></p><p><a href="https://movie.douban.com/subject/25979678/" target="_blank" rel="noopener">Roger Waters: The Wall</a></p><p><a href="https://movie.douban.com/subject/11528325/" target="_blank" rel="noopener">Pink Floyd: The Story of  Wish You Were Here</a></p></blockquote><h4 id="关于万能青年旅店"><a href="#关于万能青年旅店" class="headerlink" title="关于万能青年旅店"></a>关于万能青年旅店</h4><p>一篇文章</p><blockquote><p><a href="https://www.bilibili.com/read/cv295814/" target="_blank" rel="noopener">南方人物週刊：出入太行·驟雨重山·萬能青年旅店</a></p></blockquote><p>一个访谈视频</p><blockquote><p><a href="https://www.bilibili.com/video/av21537489/" target="_blank" rel="noopener">万能青年旅店专访</a></p></blockquote>]]></content>
     
     <summary type="html">
     
