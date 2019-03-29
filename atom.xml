@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://freeknight.cf/"/>
-  <updated>2019-03-29T04:21:19.463Z</updated>
+  <updated>2019-03-29T08:24:00.221Z</updated>
   <id>https://freeknight.cf/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>由海盗湾（The Pirate Bay）所发现的新东西（Web Proxy）</title>
+    <title>由海盗湾（The Pirate Bay）所发现的新东西</title>
     <link href="https://freeknight.cf/2019/03/28/proxy/"/>
     <id>https://freeknight.cf/2019/03/28/proxy/</id>
     <published>2019-03-28T06:54:11.000Z</published>
-    <updated>2019-03-29T04:21:19.463Z</updated>
+    <updated>2019-03-29T08:24:00.221Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>之前在<a href="https://freeknight.cf/2019/03/02/rarbg/">这篇文章</a>里提到了海盗湾，顺便贴了它的镜像列表链接，它被称为The Proxy Bay，想来还是很贴切的。后来意识到海盗湾作为各国政府的眼中钉，还能存活下去，必然有着一套让人们访问的方法，事实证明果然如此。</p><p><img src="https://file.globalupload.io/AAMBRUJUlK.png" alt=""></p><p>官网：<a href="https://proxybay.ist" target="_blank" rel="noopener">https://proxybay.ist</a></p><p>通过这个镜像列表，我们可以轻松地访问海盗湾。</p><p>不过今天我在上图红色框的两个链接里又发现了新的世界。</p><hr><h4 id="UNBLOCKED-Access-your-favourite-sites"><a href="#UNBLOCKED-Access-your-favourite-sites" class="headerlink" title="UNBLOCKED - Access your favourite sites!"></a>UNBLOCKED - Access your favourite sites!</h4><p><img src="https://file.globalupload.io/YMgMInj2XY.png" alt=""></p><p>官网：<a href="https://unblocked.krd" target="_blank" rel="noopener">https://unblocked.krd</a></p><p>如目录所示，这是个有很多资源的导航站，种子，在线视频，体育直播等等，十分丰富。</p><h4 id="Alternate-Methods-of-accessing-The-Pirate-Bay"><a href="#Alternate-Methods-of-accessing-The-Pirate-Bay" class="headerlink" title="Alternate Methods of accessing The Pirate Bay"></a>Alternate Methods of accessing The Pirate Bay</h4><p>第二个链接里介绍了访问海盗湾的其他方法</p><p>其中<a href="https://freeknight.cf/2019/02/24/tor/">Tor</a>我之前提过，主要发现的新东西是Web Proxy.</p><p>比如<a href="https://nl.hideproxy.me/index.php" target="_blank" rel="noopener">这个网站</a>，可以通过它实现代理访问Google.</p><p><img src="https://file.globalupload.io/7LwuLjz7Pe.png" alt=""></p><p>另找到其他人分享的更多Web Proxy</p><blockquote><p><a href="https://coderschool.cn/2451.html" target="_blank" rel="noopener">分享一个在线代理站点</a></p></blockquote><h4 id="torrents"><a href="#torrents" class="headerlink" title="torrents"></a>torrents</h4><p><img src="https://file.globalupload.io/ES1EiD9JSj.png" alt=""></p><p>网址：<a href="https://torrents.me" target="_blank" rel="noopener">https://torrents.me</a></p><p>这个网站就有点类似于我之前分享的<a href="https://freeknight.cf/2019/03/19/bittorrent/">磁力导航网站</a>了，有各个资源站的镜像网站，不过它是英文版的。</p>]]></content>
     
